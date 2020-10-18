@@ -1,0 +1,66 @@
+[
+  {
+    "url": "10cbbf60-173c-446a-8f2f-db0d1ebe6c76.jpg",
+    "title": "Rừng Tràm Trà Sư",
+    "desc": "Tham quan rừng ngập mặn bằng thuyền",
+    "code": 9,
+    "latitude": 10.5845098,
+    "longitude": 105.0636015
+  },
+  {
+    "url": "dad4e046-a383-46ac-b776-f9fb8a5d4f50.jpg",
+    "title": "Núi Sam",
+    "desc": "Đỉnh núi",
+    "code": 9,
+    "latitude": 10.6712546,
+    "longitude": 105.0849687
+  },
+  {
+    "url": "fedb853b-d9b2-42e3-bf82-5113690cc32d.jpg",
+    "title": "Phước Điền Tự - Chùa Hang",
+    "desc": "Đền và núi",
+    "code": 9,
+    "latitude": 10.6768397,
+    "longitude": 105.0730928
+  },
+  {
+    "url": "867d1f00-f668-4c5d-95d9-3fd0ddab924e.jpg",
+    "title": "Chợ Châu Đốc",
+    "desc": "Mua sắm cá nhân và thị trường",
+    "code": 9,
+    "latitude": 10.7110496,
+    "longitude": 105.1189058
+  },
+  {
+    "url": "48701837-bec7-4321-b7d7-8cf3c92bf82a.jpg",
+    "title": "Tây An Cổ Tự",
+    "desc": "Ngôi chùa có kiến ​​trúc độc đáo",
+    "code": 9,
+    "latitude": 10.6812134,
+    "longitude": 105.0809523
+  },
+  {
+    "url": "6f46acb9-4e5d-4684-8d94-fe7b3c360974.jpg",
+    "title": "Lăng Thoại Ngọc Hầu",
+    "desc": "Lịch sử và kiến trúc",
+    "code": 9,
+    "latitude": 10.6819583,
+    "longitude": 105.0790901
+  },
+  {
+    "url": "574d5107-50c4-4a06-9cd3-29908c131e67.jpg",
+    "title": "Kênh Vĩnh Tế",
+    "desc": "Kênh đào và núi",
+    "code": 9,
+    "latitude": 10.5874806,
+    "longitude": 104.9339804
+  },
+  {
+    "url": "59568c64-2c1e-4d8c-8e90-aebc823b065d.jpg",
+    "title": "Núi Két",
+    "desc": "Núi",
+    "code": 9,
+    "latitude": 10.6091506,
+    "longitude": 105.0015736
+  }
+]

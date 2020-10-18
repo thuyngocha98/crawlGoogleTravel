@@ -1,0 +1,66 @@
+[
+  {
+    "url": "26930b86-484d-4727-91d0-6cb0e7b8e54d.jpg",
+    "title": "đảo Bình Ba",
+    "desc": "Họ tôm hùm càng, hải sản và du lịch bụi",
+    "code": 5,
+    "latitude": 11.8372253,
+    "longitude": 109.2326031
+  },
+  {
+    "url": "f8a356f6-2465-4249-98a1-d4995681abd2.jpg",
+    "title": "đảo Bình Hưng",
+    "desc": "Họ tôm hùm càng, hải đăng, hải sản và du lịch bụi",
+    "code": 5,
+    "latitude": 11.77966,
+    "longitude": 109.2192231
+  },
+  {
+    "url": "871837d7-fb9d-4e19-9859-86c424274754.jpg",
+    "title": "Vịnh Vĩnh Hy",
+    "desc": "Du lịch bụi, vườn nho và rạn san hô",
+    "code": 5,
+    "latitude": 11.7176196,
+    "longitude": 109.2021271
+  },
+  {
+    "url": "4dd10e4c-3670-4314-924d-e75924c6d265.jpg",
+    "title": "Vịnh Cam Ranh",
+    "desc": "Bãi biển và cảng",
+    "code": 5,
+    "latitude": 11.893334,
+    "longitude": 109.1701666
+  },
+  {
+    "url": "c260cf3a-934f-48ac-9d65-b8da5b04ba96.jpg",
+    "title": "Bãi Dài Nha Trang",
+    "desc": "Bãi biển",
+    "code": 5,
+    "latitude": 12.0270699,
+    "longitude": 109.224571
+  },
+  {
+    "url": "bf69fab9-a760-44d9-88f9-e11b32f73125.jpg",
+    "title": "hòn Nội",
+    "desc": "Đảo",
+    "code": 5,
+    "latitude": 12.039802,
+    "longitude": 109.3240431
+  },
+  {
+    "url": "e80626bb-c64a-42dc-9f85-f4ef6a54181b.jpg",
+    "title": "Vườn quốc gia Núi Chúa",
+    "desc": "Rừng, bộ rùa, du lịch sinh thái, công viên và núi",
+    "code": 5,
+    "latitude": 11.7166667,
+    "longitude": 109.1333333
+  },
+  {
+    "url": "75479b21-5921-4fb3-a9ee-c8d6dbca82a6.jpg",
+    "title": "Bãi Nồm",
+    "desc": "Thắng cảnh",
+    "code": 5,
+    "latitude": 11.835017,
+    "longitude": 109.239556
+  }
+]

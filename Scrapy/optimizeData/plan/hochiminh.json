@@ -1,0 +1,66 @@
+[
+  {
+    "url": "8ddaaf03-1b49-4690-a4de-fdc3ae5886e6.jpg",
+    "title": "Công viên Tao Đàn",
+    "desc": "Công viên xanh rộng với khu vườn được cắt tỉa tỉ mỉ, chùa, khu vui chơi & công trình tiện ích thể thao.",
+    "code": 23,
+    "latitude": 10.7745379,
+    "longitude": 106.6924421
+  },
+  {
+    "url": "e747250d-eecb-4bc9-a35f-4385511db67f.jpg",
+    "title": "Dinh Độc Lập",
+    "desc": "Di tích lịch sử về chiến tranh Việt Nam cho phép tham quan văn phòng chính phủ, phòng chỉ huy và hiện vật.",
+    "code": 23,
+    "latitude": 10.7771107,
+    "longitude": 106.6954445
+  },
+  {
+    "url": "892e021f-0dfe-44a2-bdeb-0969593c6d0b.jpg",
+    "title": "Nhà thờ Đức Bà Sài Gòn",
+    "desc": "Nhà thờ Công giáo được xây dựng bằng gạch Pháp vào những năm 1880 và có các tháp chuông Rô-măng cao 58m.",
+    "code": 23,
+    "latitude": 10.7797855,
+    "longitude": 106.6990189
+  },
+  {
+    "url": "140c3447-f662-4db5-9a96-7e9d82996b51.jpg",
+    "title": "Bưu Điện Trung Tâm Thành Phố",
+    "desc": "Bưu điện trung tâm hoành tráng hoàn thành năm 1891, với sảnh chính có mái vòm & mặt sơn mang dấu ấn thời gian.",
+    "code": 23,
+    "latitude": 10.7798579,
+    "longitude": 106.6999075
+  },
+  {
+    "url": "51fb9687-7976-4eec-a786-c68f3e1a717d.jpg",
+    "title": "UBND Thành phố Hồ Chí Minh",
+    "desc": "Tòa thị chính kiểu Pháp xây vào đầu những năm 1900 hiện là trụ sở của Ủy ban Nhân dân.",
+    "code": 23,
+    "latitude": 10.776555,
+    "longitude": 106.700962
+  },
+  {
+    "url": "e5067e83-0108-4155-8fd9-d4c2b8ca26a9.jpg",
+    "title": "Nhà hát Thành phố Hồ Chí Minh",
+    "desc": "Nhà hát opera công phu từ thời thực dân Pháp 1897 nay là nơi biểu diễn ba lê & nhạc giao hưởng của thành phố.",
+    "code": 23,
+    "latitude": 10.7766352,
+    "longitude": 106.7031654
+  },
+  {
+    "url": "42e7289e-e0ed-423a-be5c-30086e077a7e.jpg",
+    "title": "Tháp Bitexco Financial Tower",
+    "desc": "Tòa nhà chọc trời 68 tầng mang tính biểu tượng có đài quan sát, shop bán lẻ, khu ăn uống & rạp chiếu phim.",
+    "code": 23,
+    "latitude": 10.7716542,
+    "longitude": 106.70456
+  },
+  {
+    "url": "6ce1b6a4-2905-45a6-bad3-325f295907f3.jpg",
+    "title": "Saigon Skydeck",
+    "desc": "Not yet description",
+    "code": 23,
+    "latitude": 10.7715673,
+    "longitude": 106.7042465
+  }
+]

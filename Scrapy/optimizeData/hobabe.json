@@ -1,0 +1,34 @@
+[
+  {
+    "url": "63fe87a7-e29b-4a9a-b8d6-69896e7c223f.jpg",
+    "title": "Vườn Quốc gia Ba Bể",
+    "desc": "Công viên, hồ, thác, du lịch sinh thái và Đi bộ đường dài",
+    "code": 22,
+    "latitude": 22.396299,
+    "longitude": 105.615755
+  },
+  {
+    "url": "c5397ec3-b37c-4e53-9d14-7a748a395689.jpg",
+    "title": "Hồ Ba Bể",
+    "desc": "Khu bảo tồn thiên nhiên",
+    "code": 22,
+    "latitude": 22.4119661,
+    "longitude": 105.6133961
+  },
+  {
+    "url": "57ef9746-d737-422d-89cd-489116c32524.jpg",
+    "title": "Bản Pác Ngòi",
+    "desc": "Tự nhiên",
+    "code": 22,
+    "latitude": 22.388028,
+    "longitude": 105.638941
+  },
+  {
+    "url": "66ba74cf-8a44-44bd-967e-87fcf477eb39.jpg",
+    "title": "Ao Tiên",
+    "desc": "Điểm thu hút khách du lịch",
+    "code": 22,
+    "latitude": 22.447857,
+    "longitude": 105.617269
+  }
+]

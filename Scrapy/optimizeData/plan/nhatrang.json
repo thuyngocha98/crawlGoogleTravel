@@ -1,0 +1,34 @@
+[
+  {
+    "url": "8240a61f-627a-4902-8f5d-21acb8ab9051.jpg",
+    "title": "Chợ Đầm",
+    "desc": "Là khu chợ chính của thành phố, tòa nhà 3 tầng này có rất nhiều quầy bán thực phẩm và đồ lưu niệm.",
+    "code": 33,
+    "latitude": 12.2549361,
+    "longitude": 109.1918134
+  },
+  {
+    "url": "2d3cb114-a0aa-40c5-8ca8-f95e96e99484.jpg",
+    "title": "Chùa Long Sơn",
+    "desc": "Ngôi chùa thờ Phật hiện đại với một tượng Phật lớn trên đỉnh đồi và tầm nhìn toàn cảnh thành phố.",
+    "code": 33,
+    "latitude": 12.2501925,
+    "longitude": 109.1801597
+  },
+  {
+    "url": "b7ef47ea-8eb9-4cff-9b08-e9622464f437.jpg",
+    "title": "Tháp Po Nagar",
+    "desc": "Ngôi đền 3 tầng thanh bình nằm trên đỉnh núi với 2 tháp nhà thờ là nơi trưng bày hiện vật & hình ảnh lịch sử.",
+    "code": 33,
+    "latitude": 12.2653881,
+    "longitude": 109.1953945
+  },
+  {
+    "url": "ce3e67b0-44ce-4ef3-8fb7-f6e8a3be818d.jpg",
+    "title": "TẮM BÙN THÁP BÀ NHA TRANG",
+    "desc": "Suối nước nóng",
+    "code": 33,
+    "latitude": 12.2701815,
+    "longitude": 109.1777173
+  }
+]

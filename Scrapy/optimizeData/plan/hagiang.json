@@ -1,0 +1,58 @@
+[
+  {
+    "url": "655a96cc-4ec9-47b2-85a9-d8ae7dd0f7b6.jpg",
+    "title": "Tây Côn Lĩnh",
+    "desc": "Núi, du lịch bụi và rừng",
+    "code": 18,
+    "latitude": 22.8016667,
+    "longitude": 104.8058333
+  },
+  {
+    "url": "2df15aa9-966a-4592-b145-eaf04df8e9c0.jpg",
+    "title": "Hồ Noong",
+    "desc": "Hồ và rừng",
+    "code": 18,
+    "latitude": 22.7044826,
+    "longitude": 104.9994939
+  },
+  {
+    "url": "21b2c0b4-701a-49a9-8779-f8ab2e92e460.jpg",
+    "title": "Du lịch cao nguyên đá",
+    "desc": "Điểm thu hút khách du lịch",
+    "code": 18,
+    "latitude": 22.8402506,
+    "longitude": 104.9943614
+  },
+  {
+    "url": "e3e80d39-9a0d-4e73-8455-775d0f68c200.jpg",
+    "title": "Tea House of BaiYue Tribe",
+    "desc": "Cắm trại",
+    "code": 18,
+    "latitude": 22.6935418,
+    "longitude": 104.9686848
+  },
+  {
+    "url": "2435502e-4fde-4c12-8296-9c7d407ce771.jpg",
+    "title": "Đỉnh Tây Côn Lĩnh",
+    "desc": "Địa điểm lịch sử",
+    "code": 18,
+    "latitude": 22.8023856,
+    "longitude": 104.8064302
+  },
+  {
+    "url": "0bb3e1b7-e111-442b-916e-92b15300e4c8.jpg",
+    "title": "Nà Thác Palms",
+    "desc": "Điểm thu hút khách du lịch",
+    "code": 18,
+    "latitude": 22.8172782,
+    "longitude": 104.9327688
+  },
+  {
+    "url": "d2a9a192-9662-45c4-8c12-f688ed834de2.jpg",
+    "title": "Thôn Lâm Đồng",
+    "desc": "Điểm thu hút khách du lịch",
+    "code": 18,
+    "latitude": 22.8076182,
+    "longitude": 104.9703701
+  }
+]

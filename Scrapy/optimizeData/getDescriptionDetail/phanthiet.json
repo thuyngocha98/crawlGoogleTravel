@@ -1,0 +1,344 @@
+[
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "6427ebf2-9259-4492-9b6c-f0fbe80ded72.jpg",
+      "cb949265-7bf1-42da-b0d5-f414a1112827.jpg",
+      "3eef7054-9265-4e99-9d76-fd309752b06c.jpg"
+    ],
+    "title": "Red Sand Dunes - ĐỒI CÁT ĐỎ"
+  },
+  {
+    "description": "Làng chài nổi tiếng với truyền thống đánh bắt cá",
+    "images": [
+      "7789f8b8-a8a2-42ca-b451-1bb56e139a5a.jpg",
+      "b606a976-88c3-496c-8ae1-428b46e662ed.jpg",
+      "69eaf3c0-457f-4c3f-b0b8-3043af79e5a6.jpg"
+    ],
+    "title": "Muine Fishing Village"
+  },
+  {
+    "description": "Bãi Đá Ông Địa là một bãi biển đẹp, trong xanh với những mỏm đá, bãi đá nhô ra ngoài mặt biển, thuộc phường Hàm Tiến, thành phố Phan Thiết, tỉnh Bình Thuận, nằm cách trung tâm thành phố khoảng 9–10 km. Wikipedia",
+    "images": [
+      "3e255003-b23f-4c74-a671-54195e2ac032.jpg",
+      "66ff9e99-67b8-47e2-8d25-b2516a4834cf.jpg",
+      "99e6fbce-7763-48a4-9719-1eb2e3844492.jpg"
+    ],
+    "title": "Bãi đá Ông Địa"
+  },
+  {
+    "description": "Đồi Dương là tên một bãi tắm biển, một công viên tọa lạc ngay trung tâm thành phố Phan Thiết. Sở dĩ có tên gọi Đồi Dương là do khi xưa, nơi đây là một vùng đồi cát rộng lớn có trồng rất nhiều cây dương chắn gió. Tuy nhiên, hiện nay khu vực trồng dương đã bị thu hẹp rất nhiều vì phần lớn đất dành cho đô thị hóa. Bãi tắm Đồi Dương cũng thường được kết hợp với bãi tắm Thương Chánh gần đó để gọi chung là \"Đồi Dương - Thương Chánh\". Nếu như khu vực Hàm Tiến - Mũi Né là bãi tắm riêng của các khu resort chỉ dành cho du khách của họ, thì Đồi Dương là bãi tắm công cộng dành cho công chúng. Wikipedia",
+    "images": [
+      "5e6ec18d-8480-4ed6-a3ae-bd16b9af9570.jpg",
+      "3e73f56e-98f9-414e-938a-844737a56fef.jpg",
+      "a699dc43-d559-491c-a6dc-c943387b8c39.jpg"
+    ],
+    "title": "Bãi biển Đồi Dương"
+  },
+  {
+    "description": "Tháp Po Sah Inư là một nhóm di tích đền tháp Chăm còn sót lại của Vương quốc Chăm Pa xưa, nằm trên đồi Bà Nài, thuộc phường Phú Hài, cách trung tâm thành phố Phan Thiết 7 km về hướng Đông-Bắc. Nhóm tháp này có phong cách kiến trúc Hòa Lai - một trong những phong cách nghệ thuật cổ của Chămpa. Tuy chỉ có kích thước vừa và nhỏ, nhưng nó chắt lọc được những tinh hoa kỹ thuật kiến trúc và nghệ thuật trang trí của người Chăm xưa tạo nên vẻ uy nghiêm và kỳ bí. Nhóm đền tháp Po Sah Inư là một trong những cụm tháp Chàm còn tương đối nguyên vẹn. Wikipedia",
+    "images": [
+      "36b1f2c2-1170-41c3-aa79-6a75f0507734.jpg",
+      "3067c931-ed08-4094-987b-11b467d916e5.jpg",
+      "4f55185e-872e-4590-be61-7a5a96bbc104.jpg"
+    ],
+    "title": "Tháp Po Sah Inu"
+  },
+  {
+    "description": "Dục Thanh Học hiệu là một ngôi trường do các sĩ phu yêu nước ở Phan Thiết, tỉnh Bình Thuận sáng lập vào năm 1907 để hưởng ứng phong trào Duy Tân do Phan Châu Trinh, Trần Quý Cáp và Huỳnh Thúc Kháng khởi xướng tại Trung Kỳ. Đây cũng là ngôi trường mà Nguyễn Tất Thành đã dừng chân dạy học một thời gian trước khi vào Sài Gòn trong chuyến xuất ngoại. Wikipedia",
+    "images": [
+      "f4c0d12a-8567-4ee6-b11f-71c48f19e177.jpg",
+      "2af2af69-cf65-406d-a958-8af927755ae8.jpg",
+      "4ef1bd0f-103f-4242-9b75-ec21524be4e4.jpg"
+    ],
+    "title": "Trường Dục Thanh"
+  },
+  {
+    "description": "Bãi biển",
+    "images": [
+      "a1ea0077-f6a9-430c-aed4-f7e758422e4d.jpg",
+      "ac56616d-9b56-41d8-9f89-b1c1feb5db49.jpg",
+      "e8716613-3446-4ee0-8ecd-d4276af28ef3.jpg"
+    ],
+    "title": "Bãi biển Phan Thiết"
+  },
+  {
+    "description": "Phú Quý là một huyện đảo thuộc tỉnh Bình Thuận, Miền Trung, Việt Nam và là một quần đảo gồm 12 đảo lớn nhỏ, nằm ngoài cùng hệ thống đảo ở cực Nam Trung Bộ. Wikipedia",
+    "images": [
+      "dab4eede-4090-400f-afd9-6dcc275e319f.jpg",
+      "76fb9494-11ba-4393-963e-b7c1f7141bb5.jpg",
+      "b09eff71-65c2-410f-8b50-1ba8b38ed06f.jpg"
+    ],
+    "title": "Phú Quý"
+  },
+  {
+    "description": "Bảo tàng",
+    "images": [
+      "705b9b2c-3e24-4976-9831-a5976bc852df.jpg",
+      "cbba2a04-d392-4ce2-9c57-e3b1650e3501.jpg",
+      "7672bf92-b33e-4311-b359-5abbb490f844.jpg"
+    ],
+    "title": "Đình Vạn Thủy Tú"
+  },
+  {
+    "description": "Golf và câu lạc bộ đồng quê",
+    "images": [
+      "bab6d07d-6fb3-47d4-838a-308881078f56.jpg",
+      "14a19b54-0849-4d90-af2b-28c9a8ae9c40.jpg",
+      "a025b70a-8140-444e-949c-4f5c6c52af91.jpg"
+    ],
+    "title": "Sea Links Golf Country Club"
+  },
+  {
+    "description": "Điểm quan tâm",
+    "images": [
+      "7cd90f72-3656-4404-bc6e-c5ed01a2584b.jpg",
+      "e789afdf-dc19-45c5-95ee-540bd2da0f76.jpg",
+      "e19ee163-4b3d-4192-ab25-89d53d61bdd1.jpg"
+    ],
+    "title": "Bãi Rạng"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "47c714e2-14f0-415c-878a-7de7b6b784f7.jpg",
+      "9722b798-3862-4c53-99cc-f1cecb40aa03.jpg",
+      "f3e8fa22-d5fd-4555-b35a-766c359db7a6.jpg"
+    ],
+    "title": "Bãi Biển Mũi Né"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "240ca0fc-4ad8-4f29-9eb0-a8b98e815f2b.jpg",
+      "94f66287-b191-4f01-b01f-fa46d9ff07cd.jpg",
+      "386e91c4-ec5f-4f83-b338-bb52293d4b39.jpg"
+    ],
+    "title": "Fishermen Show Theatre - Huyền Thoại Làng Chài"
+  },
+  {
+    "description": "Giáo phận Phan Thiết là một giáo phận Công giáo Rôma tại Việt Nam, thuộc Giáo tỉnh Sài Gòn, với địa bàn nằm trọn trong địa giới tỉnh Bình Thuận ngày nay. Giáo phận này hiện được cai quản bởi Giám mục Giuse Đỗ Mạnh Hùng từ ngày ông nhậm chức 12 tháng 12 năm 2019. Wikipedia",
+    "images": [
+      "54df5ebc-a96e-4d38-8481-9e5f0a0a7e80.jpg",
+      "d642e156-9b96-4250-8e12-9529be0a1a05.jpg",
+      "4ae8b62b-d910-4f98-8211-99bcdf3e4b7a.jpg"
+    ],
+    "title": "Tòa Giám Mục Phan Thiết"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "53418109-2099-4b4e-9b3e-38cc87eb2049.jpg",
+      "5398f7f1-0791-49cf-b491-e5e440cad2bc.jpg",
+      "b31ba144-11c8-4c51-8850-f269547064cc.jpg"
+    ],
+    "title": "Fishing Harbour - Mui Ne"
+  },
+  {
+    "description": "Chợ Phan Thiết là ngôi chợ tọa lạc tại phường Đức Nghĩa, ngay trung tâm thành phố Phan Thiết, tỉnh Bình Thuận. Vì nằm trong khu vực đông người Hoa sinh sống nên cũng được gọi dân gian là Chợ Lớn theo cách gọi chợ Bình Tây ở Thành phố Hồ Chí Minh. Chợ Phan Thiết hình thành vào năm 1697, ban đầu nằm cạnh sông Mường Mán, nay gọi là sông Cà Ty. Người dân họp chợ họp hai bên bờ sông, còn dưới sông thì ghe thuyền tấp nập. Từ đây, nhiều loại hàng hóa được chuyên chở đi khắp nơi như Sài Gòn, Nam Kỳ Lục tỉnh và cả Campuchia. Đến khoảng cuối thế kỷ 19, Phan Thiết đã trở thành một nơi giao thương lớn của vùng duyên hải Trung kỳ, thị trấn, thị tứ, dân cư đông đúc, buôn bán nhộn nhịp. Trước cảnh tượng đó, nhà cầm quyền Pháp thuộc quyết định lập chợ Phan Thiết ở vị trí cố định bên bờ hữu sông. Cũng như Chợ Lớn ở Sài Gòn, ban đầu hộ kinh doanh ở chợ Phan Thiết chủ yếu là người Hoa. Về sau, người Việt làm ăn lớn đã cạnh tranh mạnh mẽ với thương nhân Hoa kiều. Các sạp hàng ở chợ vì thế, có cả người Hoa lẫn người Việt.",
+    "images": [
+      "3d5770bb-278b-41df-b33e-03e83bcd76a0.jpg",
+      "3cdc9867-39f0-4e16-b399-89be4ea900a6.jpg",
+      "7fac6772-c426-4960-902f-57ecb26a6ad8.jpg"
+    ],
+    "title": "Chợ Phú Thủy"
+  },
+  {
+    "description": "Tháp cổ Shiva cao hơn 16 mét",
+    "images": [
+      "91e87f50-a032-461f-9467-29fc6d950e68.jpg",
+      "c7ab79b0-463d-44fd-8100-d29ab3cb7063.jpg",
+      "782eec7c-9aa9-4df2-b266-7d2687ff85b5.jpg"
+    ],
+    "title": "Tháp Chăm Po Sah Inư"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "50fbd999-e31a-44bf-9104-5012f447125e.jpg",
+      "02cba082-836a-485a-bd71-761f4776224c.jpg",
+      "cebf812f-d50b-484a-bd54-153336b44f34.jpg"
+    ],
+    "title": "Rừng hoa keo lá tràm Phan Thiết"
+  },
+  {
+    "description": "Vườn",
+    "images": [
+      "7404dd5e-9e93-43c5-bc5f-13420b624635.jpg",
+      "27ad4e35-15f0-460c-baf7-77d6e0ea3edb.jpg",
+      "b9542cce-0e1e-4c18-aebd-066adfdc1bd7.jpg"
+    ],
+    "title": "Công Viên Tượng Cát Phan Thiết"
+  },
+  {
+    "description": "Vườn bách thú",
+    "images": [
+      "5c0f13f3-b8ea-419f-8f76-4e8651fe56c4.jpg",
+      "2e683e9e-d961-4cec-a775-4d5b75ab4784.jpg",
+      "1f2dfbb9-c7f7-41b6-a119-956b8d3d94ea.jpg"
+    ],
+    "title": "Vita Garden Mini-Zoo"
+  },
+  {
+    "description": "Chợ",
+    "images": [
+      "13afb175-d699-42cd-80a9-11a8554d1287.jpg",
+      "064c6b6f-0bf3-4719-b861-741ab587e24c.jpg",
+      "560a2b4b-08db-43b0-a291-b076170bc720.jpg"
+    ],
+    "title": "Chợ Hàm Tiến"
+  },
+  {
+    "description": "Khu đất khép kín",
+    "images": [
+      "63171182-e1b6-4418-b6b6-d553aa43e370.jpg",
+      "ed982fc2-1c1f-4800-ab15-99f6dc04cd8a.jpg",
+      "a9afb1c9-c92d-4cb0-bd5c-423a24c56691.jpg"
+    ],
+    "title": "Suối Hồng"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "103e27b9-9a97-4e7f-a988-176609310cce.jpg",
+      "8902d2c7-0ce3-4f3f-97c8-6000e358ad55.jpg",
+      "89bc5921-3c7e-41c0-b282-71cf03b8da5b.jpg"
+    ],
+    "title": "Bảo tàng nước mắm Làng Chài Xưa - Fish Sauce Museum"
+  },
+  {
+    "description": "Lịch sử",
+    "images": [
+      "7d37ba9e-c86a-4e45-b5c7-c9817399f2c8.jpg",
+      "1f4f9074-09ec-4cf8-b326-a4a3e61b5d01.jpg",
+      "babc5ec6-aa0f-4463-a434-4ff1a816369d.jpg"
+    ],
+    "title": "Nhóm Đền Tháp Chăm Poshanu"
+  },
+  {
+    "description": "Golf",
+    "images": [
+      "a21ab101-d690-4ee0-9d82-aecedbcf1212.jpg",
+      "041e70ad-57d2-4cbb-b07f-7b7dcd37da62.jpg",
+      "928112a0-8892-45ee-9f4a-3200688ff42f.jpg"
+    ],
+    "title": "TROPICAL Mini Golf"
+  },
+  {
+    "description": "Tháp nước Phan Thiết là một công trình kiến trúc nổi tiếng ở Phan Thiết mà ngày nay là biểu tượng của thành phố này và hình ảnh của nó còn được vẽ cách điệu trên biểu trưng của tỉnh Bình Thuận. Tháp nước Phan Thiết được xây dựng theo chủ trương quy hoạch đô thị của chính quyền thực dân Pháp, nhằm phục vụ cung cấp nước sinh hoạt cho Tòa Công sứ Pháp và rộng ra là cả cư dân nội thị Phan Thiết. Công trình này được khởi công xây dựng vào cuối năm 1928 và hoàn thành vào đầu năm 1934 ngay bên tả ngạn sông Cà Ty, do Hoàng thân Souphanouvong người Lào thiết kế. Khi ấy, ông này là du học sinh Trường Trung học Albert Sarraut ở Hà Nội. Bản vẽ thiết kế kiến trúc của ông được Sở Công chánh Hà Nội duyệt và công trình được đưa ra đấu thầu xây dựng. Hồ sơ dự thầu có hai nhà thầu người Pháp và hai nhà thầu người Việt. Trong số đó, nhà thầu Ưng Du đã trúng thầu và tiến hành thi công. Wikipedia",
+    "images": [
+      "c49c45ee-64a3-4206-b918-f7930bdb3b59.jpg",
+      "656f8c56-7844-4761-91af-37caa88ae309.jpg",
+      "e9b12d22-85f8-42a9-af82-a2bb7c452ece.jpg"
+    ],
+    "title": "Tháp nước Phan Thiết"
+  },
+  {
+    "description": "Nhà thờ Công giáo",
+    "images": [
+      "85130246-f163-4de4-9659-60867b57c3b2.jpg",
+      "7813d469-0cdd-4f31-a916-53308dea6b07.jpg",
+      "61b8a12d-90a4-4e1d-9ea9-f7dc3130c988.jpg"
+    ],
+    "title": "Nhà Thờ RẠNG"
+  },
+  {
+    "description": "Công viên",
+    "images": [
+      "fe32037a-7ef4-4fb3-9a1f-8387729d7392.jpg",
+      "58917b28-6423-49df-a99e-d6ed9ec3a7bc.jpg",
+      "94d1b644-a43b-41cc-8570-45677f91f492.jpg"
+    ],
+    "title": "Công viên Đồi Dương"
+  },
+  {
+    "description": "Chùa Ông là ngôi miếu cổ nhất và có quy mô nhất của người Hoa ở Bình Thuận, nằm tại phường Đức Nghĩa, thành phố Phan Thiết. Wikipedia",
+    "images": [
+      "4ed577a0-9265-47d5-aba6-b61a0ba15685.jpg",
+      "7b2f62d9-f3db-4572-8576-a41d40a632a3.jpg",
+      "8d94931b-7673-42e5-a5da-62b27fbf5b47.jpg"
+    ],
+    "title": "Quan Đế Miếu"
+  },
+  {
+    "description": "Bãi biển",
+    "images": [
+      "069e044f-2482-4a3b-b0da-dbf8fa92d77d.jpg",
+      "e4ea9fdf-57a5-4752-91d7-38c451f749ee.jpg",
+      "cbe96d9d-3300-4c8d-8eb2-451e7b62300d.jpg"
+    ],
+    "title": "Hom Rom Beach"
+  },
+  {
+    "description": "Viện bảo tàng",
+    "images": [
+      "d922a799-8e69-490a-afe9-37d9fb20bb56.jpg",
+      "aa5abd3c-eb6b-470c-9a9d-3dc89b383bcc.jpg",
+      "1d236aaf-7f29-4139-857f-c574391c5d43.jpg"
+    ],
+    "title": "Bảo Tàng Hồ Chí Minh"
+  },
+  {
+    "description": "Điểm quan tâm",
+    "images": [
+      "a8b75eb5-67d9-4b9e-890e-62e8ba92f83e.jpg",
+      "5fad740c-da62-425a-a1de-0181d3c4abeb.jpg",
+      "d34294d6-6d1a-4718-bea8-48d144fda502.jpg"
+    ],
+    "title": "Resort Bien Da Vang"
+  },
+  {
+    "description": "Đền",
+    "images": [
+      "297d9579-b634-4da0-af9d-5abe4f387038.jpg",
+      "27d26cbf-2f61-4b45-ad1c-48baab05b940.jpg",
+      "804faa29-6199-4d27-a1f2-d46982f10ea8.jpg"
+    ],
+    "title": "Chùa Linh Long"
+  },
+  {
+    "description": "Đỉnh núi",
+    "images": [
+      "e9604b26-49cd-4609-bed7-d2c9fd251614.jpg",
+      "aabe1788-ba82-4210-93e1-e6da9109648d.jpg",
+      "109564ae-cd77-44be-a6d6-bcad5936a528.jpg"
+    ],
+    "title": "Hon Rom"
+  },
+  {
+    "description": "Nhà thờ Công giáo",
+    "images": [
+      "55e35c5d-1af7-4b36-adb6-d31466c96903.jpg",
+      "02be301c-7160-41e4-bd89-206fde9e029d.jpg",
+      "16f80f96-4d07-4899-a5e9-5c1f32ca3346.jpg"
+    ],
+    "title": "Nhà thờ Mũi Né"
+  },
+  {
+    "description": "Đền thờ Hindu",
+    "images": [
+      "fab54105-05b9-44bc-92d6-a4cf5cb4de74.jpg",
+      "a3c1b78c-6803-40cc-afc1-fcd07712b5f7.jpg",
+      "1e967d40-d4b0-4a8e-94eb-b6e1f617f6d4.jpg"
+    ],
+    "title": "Poshainu Cham Towers, Mui Ne"
+  },
+  {
+    "description": "Cảng",
+    "images": [
+      "31af4c04-2f4b-400b-bc1e-0b3efb8673fa.jpg",
+      "52116710-f3b6-4afa-bb7a-a1c23bdfd30f.jpg",
+      "056e8a87-9ab1-46f8-864c-3b07dc4ca521.jpg"
+    ],
+    "title": "Cảng Phan Thiết"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "fee80866-1286-49c2-b82a-57cab6a6bdbf.jpg",
+      "c1fdfe82-3f8f-4b7e-a2f0-fbf98bb65675.jpg",
+      "b257a8eb-6cfe-4064-a9be-586473d5b831.jpg"
+    ],
+    "title": "Suối nước nóng Bưng Thị"
+  }
+]

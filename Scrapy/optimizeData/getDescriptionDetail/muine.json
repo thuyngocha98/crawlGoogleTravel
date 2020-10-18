@@ -1,0 +1,389 @@
+[
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "17cdd40c-6fc5-4bfb-86ca-d22bbad4f849.jpg",
+      "438746c7-bae9-40f4-b93d-b75e0a1f30b9.jpg",
+      "525128aa-1864-49fe-bcc1-a061df26b295.jpg"
+    ],
+    "title": "Red Sand Dunes - ĐỒI CÁT ĐỎ"
+  },
+  {
+    "description": "Làng chài nổi tiếng với truyền thống đánh bắt cá",
+    "images": [
+      "c99a78db-3bb1-47a9-9641-92fc67d01d05.jpg",
+      "633f5b26-8075-4914-bc8b-f16dabf6579e.jpg",
+      "573db6f5-4947-4413-a3df-7cb0429d3a27.jpg"
+    ],
+    "title": "Muine Fishing Village"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "b7ab38ae-4353-4f0c-b585-ef6b2dadaab9.jpg",
+      "eb3d7c42-3dc2-48eb-9d62-63a58c89ccc0.jpg",
+      "5dd3348b-8961-456a-b448-fbbd28697599.jpg"
+    ],
+    "title": "Bãi Biển Mũi Né"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "017b9322-771a-451d-8d0d-2e331f087bfe.jpg",
+      "246db4d4-24a1-4d8a-85c1-e938b311e538.jpg",
+      "b7d5a5a7-8d29-49ea-b0b8-6dfc7605324f.jpg"
+    ],
+    "title": "Fishing Harbour - Mui Ne"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "dc38b557-1eda-4f6e-83e8-2690d63d7544.jpg",
+      "1778c44d-1445-4cc6-bdf5-1a3ee449c174.jpg",
+      "6c9ee671-2095-4c1e-9be0-a45a03af7de5.jpg"
+    ],
+    "title": "Rừng hoa keo lá tràm Phan Thiết"
+  },
+  {
+    "description": "Khu đất khép kín",
+    "images": [
+      "37bc53d7-9a8e-4484-8a47-f7a2c8dd5bce.jpg",
+      "5431768a-94f9-47cd-ab71-aabaae596360.jpg",
+      "071a5aa3-7c8e-4ae8-bb0e-b9805d02ef0f.jpg"
+    ],
+    "title": "Suối Hồng"
+  },
+  {
+    "description": "Bãi biển",
+    "images": [
+      "eb067beb-caae-43fd-aabb-94dee42c2311.jpg",
+      "5eab0f78-b574-448d-9b50-988b20fe7732.jpg",
+      "1ab34475-4be4-4c87-91f9-04a29ee69cba.jpg"
+    ],
+    "title": "Hom Rom Beach"
+  },
+  {
+    "description": "Đền",
+    "images": [
+      "70a33715-7cd0-4903-9420-5f565e082548.jpg",
+      "591b45ff-18da-4a73-9693-dd2a12f1d356.jpg",
+      "6501e729-4612-4ab8-8839-e6d1637209b0.jpg"
+    ],
+    "title": "Chùa Linh Long"
+  },
+  {
+    "description": "Đỉnh núi",
+    "images": [
+      "46e633be-f907-4f69-998b-ecbb89d52484.jpg",
+      "cdafe5e2-38c7-49bb-a5c1-6b518e5e27cc.jpg",
+      "e8f3fe9e-c3f2-495d-8ed1-22f2e7284060.jpg"
+    ],
+    "title": "Hon Rom"
+  },
+  {
+    "description": "Nhà thờ Công giáo",
+    "images": [
+      "76eabec4-90af-4c5c-b4e5-3368faca89f3.jpg",
+      "9c8824ed-8e81-429b-99f9-703f1c8d3a1c.jpg",
+      "95a58e1c-391c-4453-951f-308a79d5a300.jpg"
+    ],
+    "title": "Nhà thờ Mũi Né"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "03102f85-c922-4d5e-9834-2dab46ade5c0.jpg",
+      "66d7a10e-964a-4df6-8205-ccb012ee9d69.jpg",
+      "b73407fa-f30e-4b16-82b1-47c96d3777ce.jpg"
+    ],
+    "title": "Mũi Né"
+  },
+  {
+    "description": "Bãi biển công cộng",
+    "images": [
+      "0503e0bc-bbdd-4843-81fa-0aa9fa5d50ee.jpg",
+      "475f1533-d95c-4ca5-9900-64dd9f08fe7c.jpg",
+      "82e260b7-0b7e-4bf4-9c38-3c13c99dd2eb.jpg"
+    ],
+    "title": "Rock Bay Mũi Né Homestay"
+  },
+  {
+    "description": "Hoang mạc",
+    "images": [
+      "ed91d269-3c29-41fd-a53d-0964a8348613.jpg",
+      "f9b3d703-af98-48c7-afb2-8217caff9d0e.jpg",
+      "6ae4129f-a4e5-4ff1-9455-f0032f9e24cd.jpg"
+    ],
+    "title": "무이네 모래사막"
+  },
+  {
+    "description": "Bãi Đá Ông Địa là một bãi biển đẹp, trong xanh với những mỏm đá, bãi đá nhô ra ngoài mặt biển, thuộc phường Hàm Tiến, thành phố Phan Thiết, tỉnh Bình Thuận, nằm cách trung tâm thành phố khoảng 9–10 km. Wikipedia",
+    "images": [
+      "593623d6-4e34-4b0e-b587-9ba8be4b081b.jpg",
+      "241c4f01-54c8-4356-ac2e-ebd85e23efe2.jpg",
+      "52e780d5-3064-4fd0-9e0a-1b237dfbf2ce.jpg"
+    ],
+    "title": "Bãi đá Ông Địa"
+  },
+  {
+    "description": "Đồi Dương là tên một bãi tắm biển, một công viên tọa lạc ngay trung tâm thành phố Phan Thiết. Sở dĩ có tên gọi Đồi Dương là do khi xưa, nơi đây là một vùng đồi cát rộng lớn có trồng rất nhiều cây dương chắn gió. Tuy nhiên, hiện nay khu vực trồng dương đã bị thu hẹp rất nhiều vì phần lớn đất dành cho đô thị hóa. Bãi tắm Đồi Dương cũng thường được kết hợp với bãi tắm Thương Chánh gần đó để gọi chung là \"Đồi Dương - Thương Chánh\". Nếu như khu vực Hàm Tiến - Mũi Né là bãi tắm riêng của các khu resort chỉ dành cho du khách của họ, thì Đồi Dương là bãi tắm công cộng dành cho công chúng. Wikipedia",
+    "images": [
+      "0724d3a3-35f9-4e08-a0ec-6c6b1d58ec2b.jpg",
+      "e9dfcd86-a6d4-4ed6-8130-d0c3201d54e8.jpg",
+      "cbc20ae2-52f6-4646-9ad1-fa370a80ca92.jpg"
+    ],
+    "title": "Bãi biển Đồi Dương"
+  },
+  {
+    "description": "Tháp Po Sah Inư là một nhóm di tích đền tháp Chăm còn sót lại của Vương quốc Chăm Pa xưa, nằm trên đồi Bà Nài, thuộc phường Phú Hài, cách trung tâm thành phố Phan Thiết 7 km về hướng Đông-Bắc. Nhóm tháp này có phong cách kiến trúc Hòa Lai - một trong những phong cách nghệ thuật cổ của Chămpa. Tuy chỉ có kích thước vừa và nhỏ, nhưng nó chắt lọc được những tinh hoa kỹ thuật kiến trúc và nghệ thuật trang trí của người Chăm xưa tạo nên vẻ uy nghiêm và kỳ bí. Nhóm đền tháp Po Sah Inư là một trong những cụm tháp Chàm còn tương đối nguyên vẹn. Wikipedia",
+    "images": [
+      "0576ba9c-925b-47a2-a258-5bdf23991417.jpg",
+      "c0afe439-1eab-4d79-9bac-8ab6dea78f38.jpg",
+      "1d2b39dd-0ed7-4950-8881-76aceefc7bd2.jpg"
+    ],
+    "title": "Tháp Po Sah Inu"
+  },
+  {
+    "description": "Bãi biển",
+    "images": [
+      "bae14403-c95b-4c82-bca5-e250beb61fd8.jpg",
+      "3ce64caa-1711-4895-8245-72051d1ed0fc.jpg",
+      "28393a97-c73a-4f89-a0d4-da81c843c784.jpg"
+    ],
+    "title": "Bãi biển Phan Thiết"
+  },
+  {
+    "description": "Golf và câu lạc bộ đồng quê",
+    "images": [
+      "bf631454-18d2-4ea1-bb5f-0053ade12b1d.jpg",
+      "93256c1f-d32b-4c53-94da-e86c93ba9291.jpg",
+      "b639e4ae-737c-496a-bf3d-83a86fd2286a.jpg"
+    ],
+    "title": "Sea Links Golf Country Club"
+  },
+  {
+    "description": "Điểm quan tâm",
+    "images": [
+      "9dcfa998-548c-4ad1-9a8f-11cf2683cbe4.jpg",
+      "2d95798e-2aae-4c8b-9d4b-85c6925490b5.jpg",
+      "5107fd33-2bb3-4d4f-8ba4-f807b4e17e23.jpg"
+    ],
+    "title": "Bãi Rạng"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "bc7ace8f-843c-418f-adae-ab35a50d31dc.jpg",
+      "6124baed-f26d-4dd5-b422-e37377023d0d.jpg",
+      "eaf81a81-e7fa-48f8-a772-6916d827f256.jpg"
+    ],
+    "title": "Fishermen Show Theatre - Huyền Thoại Làng Chài"
+  },
+  {
+    "description": "Chợ Phan Thiết là ngôi chợ tọa lạc tại phường Đức Nghĩa, ngay trung tâm thành phố Phan Thiết, tỉnh Bình Thuận. Vì nằm trong khu vực đông người Hoa sinh sống nên cũng được gọi dân gian là Chợ Lớn theo cách gọi chợ Bình Tây ở Thành phố Hồ Chí Minh. Chợ Phan Thiết hình thành vào năm 1697, ban đầu nằm cạnh sông Mường Mán, nay gọi là sông Cà Ty. Người dân họp chợ họp hai bên bờ sông, còn dưới sông thì ghe thuyền tấp nập. Từ đây, nhiều loại hàng hóa được chuyên chở đi khắp nơi như Sài Gòn, Nam Kỳ Lục tỉnh và cả Campuchia. Đến khoảng cuối thế kỷ 19, Phan Thiết đã trở thành một nơi giao thương lớn của vùng duyên hải Trung kỳ, thị trấn, thị tứ, dân cư đông đúc, buôn bán nhộn nhịp. Trước cảnh tượng đó, nhà cầm quyền Pháp thuộc quyết định lập chợ Phan Thiết ở vị trí cố định bên bờ hữu sông. Cũng như Chợ Lớn ở Sài Gòn, ban đầu hộ kinh doanh ở chợ Phan Thiết chủ yếu là người Hoa. Về sau, người Việt làm ăn lớn đã cạnh tranh mạnh mẽ với thương nhân Hoa kiều. Các sạp hàng ở chợ vì thế, có cả người Hoa lẫn người Việt.",
+    "images": [
+      "5e7b5cd9-fe23-41bc-addd-f6d6a99cd14f.jpg",
+      "45d3cfdc-ca1d-46b1-a003-8e32d032eae2.jpg",
+      "b226c1ad-761a-4a76-ab44-908e96543c49.jpg"
+    ],
+    "title": "Chợ Phú Thủy"
+  },
+  {
+    "description": "Tháp cổ Shiva cao hơn 16 mét",
+    "images": [
+      "84c4cb6f-6a81-4b37-b091-aa209ade263a.jpg",
+      "d29bc551-ce95-4256-867b-8cd15eac6866.jpg",
+      "5ca5a0a8-1fa8-4f90-b541-d47268a96fea.jpg"
+    ],
+    "title": "Tháp Chăm Po Sah Inư"
+  },
+  {
+    "description": "Vườn",
+    "images": [
+      "31f405bc-6102-4478-b9e1-99c6d8371cb9.jpg",
+      "850c4075-52a4-47fc-82e2-3e517c75f0db.jpg",
+      "4c8bd472-e04e-4419-8ddf-a4088df1f3bd.jpg"
+    ],
+    "title": "Công Viên Tượng Cát Phan Thiết"
+  },
+  {
+    "description": "Vườn bách thú",
+    "images": [
+      "1d25cf15-408b-4406-9cfa-835c5d38df2e.jpg",
+      "340239e4-0e5b-4de0-9467-bfd87194f2f3.jpg",
+      "5cee3f37-3ce7-4636-b3e4-4b75eeedc361.jpg"
+    ],
+    "title": "Vita Garden Mini-Zoo"
+  },
+  {
+    "description": "Chợ",
+    "images": [
+      "fad6a74d-beb2-4cc7-a029-a77ee2622b31.jpg",
+      "3d08fbf0-c179-45ba-9795-a62e811d3229.jpg",
+      "4dea54ae-f2c9-482d-87ec-a4e2a838a148.jpg"
+    ],
+    "title": "Chợ Hàm Tiến"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "48eb483c-aa97-454a-b87f-86437d032420.jpg",
+      "98f12e95-f6c4-4980-b8d2-259e2b92604c.jpg",
+      "5fcacc8b-af98-4c7d-96b7-a0f8db9cee59.jpg"
+    ],
+    "title": "Bảo tàng nước mắm Làng Chài Xưa - Fish Sauce Museum"
+  },
+  {
+    "description": "Lịch sử",
+    "images": [
+      "3524bc7b-3a4a-4098-a3ac-c83ff69ba90a.jpg",
+      "44f0e52c-ab86-4ddd-bc4f-6b0f6d77caa8.jpg",
+      "660fb8f8-7486-495f-9d39-ae6adba30617.jpg"
+    ],
+    "title": "Nhóm Đền Tháp Chăm Poshanu"
+  },
+  {
+    "description": "Golf",
+    "images": [
+      "2f253295-cc29-4c62-b4e4-77de351b730c.jpg",
+      "754e4118-7453-482d-a8db-f2c8b4210b99.jpg",
+      "29e010e5-a8e0-45d7-86d6-13c194d32faf.jpg"
+    ],
+    "title": "TROPICAL Mini Golf"
+  },
+  {
+    "description": "Nhà thờ Công giáo",
+    "images": [
+      "5b8a5cd5-84aa-47d1-9f7b-45a065c44da7.jpg",
+      "a5b6595a-b3d4-46c3-8e6c-4264efa8d11c.jpg",
+      "006e39d2-97f0-4bad-94fa-aea40ae0da5b.jpg"
+    ],
+    "title": "Nhà Thờ RẠNG"
+  },
+  {
+    "description": "Công viên",
+    "images": [
+      "52df49a3-f95e-4deb-a820-58525812794c.jpg",
+      "78d9213d-9d4c-4f81-99f4-845bf32c7eb5.jpg",
+      "ea241d75-cf12-4d83-acbb-e7d214e4c0c1.jpg"
+    ],
+    "title": "Công viên Đồi Dương"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "eeba1743-6265-4970-8e47-e1be8de70ead.jpg",
+      "15a922bd-3c02-4572-b8f0-af8a9684a01f.jpg",
+      "0001a194-53d6-4540-a5a5-3f70c7544835.jpg"
+    ],
+    "title": "Mui Ne Cooking School"
+  },
+  {
+    "description": "Điểm quan tâm",
+    "images": [
+      "d6ce18cb-f74f-4c7c-82fa-b973c8322b86.jpg",
+      "5b7338e9-a9e8-4482-b931-f5398ad3eb70.jpg",
+      "6abfbd3f-4d7e-48f2-83d7-c862ea0fe2af.jpg"
+    ],
+    "title": "Resort Bien Da Vang"
+  },
+  {
+    "description": "Đền thờ Hindu",
+    "images": [
+      "761585e2-5d7d-48e0-b578-5b778dde22d8.jpg",
+      "f42a21d9-64cd-4e64-9598-435bc4420023.jpg",
+      "7183ca29-61c3-4ad7-acba-cf05a327d235.jpg"
+    ],
+    "title": "Poshainu Cham Towers, Mui Ne"
+  },
+  {
+    "description": "Bãi biển",
+    "images": [
+      "2c6acd8c-b04a-4e4f-b241-310566a40781.jpg",
+      "0abc7cdb-2e61-4533-a21d-7cc864747704.jpg",
+      "814811f5-200b-46b7-9cc3-8177539496cf.jpg"
+    ],
+    "title": "Red Sand Dunes Beach"
+  },
+  {
+    "description": "Cắm trại",
+    "images": [
+      "cc8c681a-f0a5-4472-acf9-507c8c30992d.jpg",
+      "9a6c673f-6887-4914-8729-6ccdca788b8f.jpg",
+      "de95b915-5196-496a-9a91-f7a0f4cc659a.jpg"
+    ],
+    "title": "Du lịch cắm trại Gió biển hòn Nghề"
+  },
+  {
+    "description": "Bãi biển",
+    "images": [
+      "90f82729-9b23-402e-8c3c-f71d60fc2f20.jpg",
+      "eafc6fd6-6943-4054-a59c-88c6838d3199.jpg",
+      "39b35e01-3ad0-4daa-a2e9-ad78fe66403a.jpg"
+    ],
+    "title": "Biển Phú Hài"
+  },
+  {
+    "description": "Phật giáo và Đền",
+    "images": [
+      "e8b9014e-58ba-4520-929b-e23b66828cea.jpg",
+      "5d11b03f-a5f7-47b0-97aa-448eac657f2d.jpg",
+      "c266537d-4488-4c27-baaf-f5a04b190e26.jpg"
+    ],
+    "title": "Chùa Phật Quang"
+  },
+  {
+    "description": "Công viên",
+    "images": [
+      "d8853e59-82d6-4f02-9356-1b78acea6830.jpg",
+      "5b750b37-8b27-4412-9835-55e0b41bc803.jpg",
+      "e3453ec1-f798-40f5-ab4e-892b078a2312.jpg"
+    ],
+    "title": "Công viên Võ Văn Kiệt"
+  },
+  {
+    "description": "Âm nhạc và lịch sử",
+    "images": [
+      "b08b281e-4f81-4bf8-a640-e68e9f3fe0d2.jpg",
+      "2872b0fb-37b2-45c5-b783-502225eec304.jpg",
+      "1a519c8e-b45c-4078-a006-ae0d15fdeef2.jpg"
+    ],
+    "title": "Tượng đài Chiến Thắng"
+  },
+  {
+    "description": "Chùa phật giáo",
+    "images": [
+      "aa2b2db8-8e59-4ff5-bb63-124025236d18.jpg",
+      "21f3c5e4-135c-497d-916c-9fbb8cd22676.jpg",
+      "040307b7-aee0-427e-a1b1-70238c124d6d.jpg"
+    ],
+    "title": "Chùa Tòng Lâm Vạn Thiện"
+  },
+  {
+    "description": "Núi",
+    "images": [
+      "6ef04f3a-d93d-4482-be9c-09245667a0c2.jpg",
+      "9a877641-02b6-4dc4-ab83-edce553a5177.jpg",
+      "590578db-4065-4ba2-a3cf-f28b30128555.jpg"
+    ],
+    "title": "Núi Tà Zôn"
+  },
+  {
+    "description": "Bãi biển",
+    "images": [
+      "31edc4dd-4228-4beb-811e-9d8b82d86293.jpg",
+      "5d6a6226-d9ba-4ae2-8cb3-4f40f1f21fe0.jpg",
+      "58c51e1d-5562-47ff-91b4-cccaaea4f0b1.jpg"
+    ],
+    "title": "Bãi biển Tu Lam"
+  },
+  {
+    "description": "nước",
+    "images": [
+      "23069ccc-3416-4c73-b5a7-7a7e498af33e.jpg",
+      "6a469c65-3078-4014-9702-0a4376e2682c.jpg",
+      "20ac1f2d-680b-4995-8d3d-b931648a9e33.jpg"
+    ],
+    "title": "suối Tiên"
+  }
+]

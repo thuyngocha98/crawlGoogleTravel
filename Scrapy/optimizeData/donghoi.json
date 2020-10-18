@@ -1,0 +1,82 @@
+[
+  {
+    "url": "80235f41-2b4e-41e8-b3a7-25703d964f73.jpg",
+    "title": "Nhật Lệ",
+    "desc": "Bãi biển",
+    "code": 16,
+    "latitude": 17.4236631,
+    "longitude": 106.6411327
+  },
+  {
+    "url": "06dfaf68-2030-4881-a8fc-6a7e0cc1c9e2.jpg",
+    "title": "Đồi Cát Quang Phú - Đồng Hới",
+    "desc": "Hoang mạc",
+    "code": 16,
+    "latitude": 17.5303866,
+    "longitude": 106.5948543
+  },
+  {
+    "url": "61e37d10-f8ca-4473-b488-b8a8bfd2f089.jpg",
+    "title": "Hồ Bàu Tró",
+    "desc": "Hồ",
+    "code": 16,
+    "latitude": 17.4909369,
+    "longitude": 106.6224991
+  },
+  {
+    "url": "a502af5c-ea12-4886-b154-f4c63fe52535.jpg",
+    "title": "Tượng đài Mẹ Suốt",
+    "desc": "Tượng",
+    "code": 16,
+    "latitude": 17.4592291,
+    "longitude": 106.6254002
+  },
+  {
+    "url": "015714c2-3b84-4bdc-8501-79c9ff127b66.jpg",
+    "title": "Chợ Đồng Hới",
+    "desc": "Chợ",
+    "code": 16,
+    "latitude": 17.463775,
+    "longitude": 106.626725
+  },
+  {
+    "url": "2f8a6cab-faa4-4d76-913b-1ad2fe54a13a.jpg",
+    "title": "Phế tích Nhà thờ Tam Tòa",
+    "desc": "Tàn tích của nhà thờ Công giáo thế kỷ 19",
+    "code": 16,
+    "latitude": 17.4749117,
+    "longitude": 106.6233779
+  },
+  {
+    "url": "a39564e2-b89e-4ec7-b919-2e3b0c67d5b0.jpg",
+    "title": "Thành cổ Đồng Hới",
+    "desc": "Lịch sử và kiến trúc",
+    "code": 16,
+    "latitude": 17.4633123,
+    "longitude": 106.6239801
+  },
+  {
+    "url": "4905c82d-09bd-4f8a-b92a-1c91ad394144.jpg",
+    "title": "Quảng Bình Quan",
+    "desc": "Kiến trúc",
+    "code": 16,
+    "latitude": 17.6102715,
+    "longitude": 106.3487474
+  },
+  {
+    "url": "2dd46e13-244f-40ad-ac02-4e480f95d9e4.jpg",
+    "title": "Tượng đài Mẹ Suốt",
+    "desc": "Mốc lịch sử",
+    "code": 16,
+    "latitude": 17.4592291,
+    "longitude": 106.6254002
+  },
+  {
+    "url": "2a19635a-200e-405b-9be3-059f952959ed.jpg",
+    "title": "Cửa biển Nhật Lệ",
+    "desc": null,
+    "code": 16,
+    "latitude": 17.4809787,
+    "longitude": 106.6468148
+  }
+]

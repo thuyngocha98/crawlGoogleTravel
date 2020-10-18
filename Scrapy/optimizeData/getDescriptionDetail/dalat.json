@@ -1,0 +1,844 @@
+[
+  {
+    "description": "Biệt thự Hằng Nga hay Ngôi nhà quái dị là một nhà nghỉ tại Đà Lạt, nằm ở số 3 Huỳnh Thúc Kháng trong khuôn viên rộng gần 2.000 m². Ngôi nhà này nổi tiếng vì có phong cách kiến trúc đặc biệt. Từ khi khai trương vào năm 1990, tòa nhà này đã được công nhận kiến trúc độc đáo, đã được nêu bật trong các sách hướng dẫn du lịch và được xếp vào nhóm 10 tòa nhà kỳ lạ nhất theo bình chọn của Nhân dân Nhật báo của Trung Quốc. Wikipedia",
+    "images": [
+      "a2cce2e3-2d6c-4484-9e33-02e5c81542a1.jpg",
+      "3bfaf26a-426c-4c46-b065-4d16f1f0599c.jpg",
+      "6c816288-f597-484f-adec-0149bb35c5e7.jpg"
+    ],
+    "title": "Biệt thự du lịch Hằng Nga - Crazy House"
+  },
+  {
+    "description": "Hồ Tuyền Lâm là một hồ nước thuộc thành phố Đà Lạt tỉnh Lâm Đồng. Đây là hồ nước ngọt rộng nhất Ðà Lạt, với diện tích khoảng 320 ha, nằm cách trung tâm thành phố Đà Lạt 7 km và cách thác Ðatanla 2 km. Hồ nằm gần núi Phụng Hoàng, đây được xem là khu phức hợp tập trung nhiều cảnh quan đẹp và dịch vụ du lịch phong phú. Hồ Tuyền Lâm là một trong 21 khu du lịch quốc gia Việt Nam. Hồ có nhiều ốc đảo nhỏ và được bao bọc bởi khu rừng thông. Trúc Lâm Thiền Viện là một thiền viện nằm ở phía Đông Bắc hồ nước này. Một đập nước được xây dựng tại đây với chức năng điều tiết nước. Hiện đang có dự án xây dựng khu du lịch nghỉ dưỡng, sân golf và khu săn bắn bên hồ.",
+    "images": [
+      "e22b46fd-865f-4eb1-94ed-17bd7fafd09a.jpg",
+      "8d58cd60-e7fe-4b8b-9d4b-a5796056f05c.jpg",
+      "370da3c8-c029-4ce0-85d5-37aa4676a676.jpg"
+    ],
+    "title": "Hồ Tuyền Lâm"
+  },
+  {
+    "description": "Thiền Viện Trúc Lâm là thiền viện thuộc thiền phái Trúc Lâm Yên Tử. Thiền viện cách trung tâm thành phố Đà Lạt 5km, nằm trên núi Phụng Hoàng, phía trên Hồ Tuyền Lâm. Đây không chỉ là thiền viện lớn nhất Lâm Đồng, mà còn là điểm tham quan và chiêm bái của nhiều du khách trong và ngoài nước. Wikipedia",
+    "images": [
+      "547ac943-1ddf-44f8-a715-4b48b2b7bb90.jpg",
+      "0ff790f0-0270-4118-8c72-ca017199555d.jpg",
+      "b0697033-edfb-4311-8a76-ee352f1dd84e.jpg"
+    ],
+    "title": "Thiền viện Trúc lâm"
+  },
+  {
+    "description": "Đatanla hay Datanla là thác ở thành phố Đà Lạt tỉnh Lâm Đồng, Việt Nam. Thác nằm trong khu du lịch Đatanla, cách thác Prenn 8 km và thành phố Đà Lạt 10 km và là điểm tham quan, phiêu lưu mạo hiểm. Tên gọi \"Đatanla\" hay \"Đatania\" theo tiếng K'Ho ghép lại từ \"Đạh-Tam-N'ha\" có nghĩa là \"dưới lá có nước\", và có liên quan đến cuộc xung đột Chăm - Lạch - Chil hồi thế kỷ XV - XVII. Nhiều văn liệu khi sao chép tên đã viết nhầm thành \"Thác Dalanta\". Wikipedia",
+    "images": [
+      "3fda22d8-c338-415f-9744-3234039e54f3.jpg",
+      "fe6bd501-8f2d-445a-ad24-d91385abf045.jpg",
+      "695d4684-97b1-410f-b979-c4b0ab5fac01.jpg"
+    ],
+    "title": "Khu Du Lịch Thác Datanla"
+  },
+  {
+    "description": "Chùa Linh Phước tọa lạc tại số 120 Tự Phước, thuộc địa bàn Trại Mát, cách trung tâm thành phố Đà Lạt 8 km, trên quốc lộ 20. Chùa còn được gọi là Chùa Ve Chai vì trong sân chùa có con rồng dài 49 m được làm bằng 12.000 vỏ chai lọ. Chùa Linh Phước là một công trình kiến trúc khảm sành đặc sắc của thành phố Đà Lạt. Wikipedia",
+    "images": [
+      "abf8489e-a811-49ad-915d-14f16f1e830a.jpg",
+      "9576e0d3-22c3-4c95-af4c-94c6b0d73717.jpg",
+      "daa70145-031e-4ae1-8905-95913f461ebd.jpg"
+    ],
+    "title": "Chùa Linh Phước"
+  },
+  {
+    "description": "Thung Lũng Tình Yêu là một trong những thắng cảnh thơ mộng nhất tại Đà Lạt, cách trung tâm thành phố khoảng 5 km về phía bắc. Đó là nơi đập Đa Thiện quy tụ những dòng suối nhỏ chảy từ đồi núi cao, thành hồ Đa Thiện trong vắt uốn quanh thung lũng rợp bóng thông xanh. Vào những năm 30, toàn quyền Đông Dương và các cặp tình nhân người Pháp thường chọn khung cảnh này cho những buổi hẹn hò, rồi đặt tên là Vallée d'Amour. Đến thời vua Bảo Đại, vùng này được gọi là Thung lũng Hòa Bình, đến năm 1953, ông Nguyễn Vỹ - Chủ tịch Hội đồng thị xã Đà Lạt lúc bấy giờ - đã đề xuất đổi tên thành Thung lũng tình yêu. Thung lũng Tình Yêu đẹp và cuốn hút bởi thung lũng sâu và đồi thông quanh năm xanh biếc. Năm 1972, một đập ngăn nước được xây dựng vắt ngang qua thung lũng tạo thành hồ Đa Thiện, làm tăng thêm sức quyến rũ cho cảnh quan chung, đồng thời xuất hiện thêm hai tên gọi khác bên cạnh Thung lũng Tình Yêu là đập 3 và hồ Đa Thiện 3. Du khách có thể men theo những lối mòn hoặc leo cả trăm bậc, đi qua những cổng hoa với màu sắc rực rỡ để lên đồi Vọng Cảnh. Từ đây, Thung lũng Tình Yêu hiện ra trong tầm mắt đẹp tựa một bức tranh sinh động.",
+    "images": [
+      "1edc94ad-468b-44bf-8a44-46bbd27f944f.jpg",
+      "904bb2a9-dbc8-4c78-9a27-965becd6c298.jpg",
+      "271436df-55e5-4bbf-a0fa-2f606d8d3e50.jpg"
+    ],
+    "title": "Thung Lũng Tình Yêu"
+  },
+  {
+    "description": "Langbiang – hay núi Langbiang, hay khu du lịch núi Langbiang là hai ngọn núi: Núi Ông và Núi Bà nằm cách thành phố Đà Lạt 12 km thuộc địa phận huyện Lạc Dương. Núi Bà cao 2.167 m so với mặt nước biển, núi Ông cao 2.124 m so với mặt nước biển. Ngoài ra trong khu du lịch còn có ngọn đồi Ra-đa cao 1.929 m, ngọn đồi này cũng là một địa điểm quen thuộc đối với du khách. Nhìn từ trung tâm thành phố Đà Lạt Núi Bà nằm bên trái, núi Ông nằm bên phải. Langbiang được ví như\"nóc nhà\"của Đà Lạt, và là điểm tham quan du lịch hấp dẫn của thành phố Đà Lạt. Wikipedia",
+    "images": [
+      "15412926-b6ac-407b-85fb-8db9117a6321.jpg",
+      "60d4b67f-79a0-4045-a174-c454c9e1f4cf.jpg",
+      "fc34ee83-688c-4389-9212-21c56e662aff.jpg"
+    ],
+    "title": "Đỉnh Langbiang"
+  },
+  {
+    "description": "Dinh III, còn gọi là Dinh Bảo Đại, được xây trong khoảng từ năm 1933 đến 1938 là nơi gia đình vua Bảo Đại sinh sống và làm việc ở thành phố Đà Lạt. Dinh III do một kiến trúc sư người Pháp tên là Paul Veysseyre và Huỳnh Tấn Phát thiết kế. Wikipedia",
+    "images": [
+      "a524d83a-768f-437f-914f-5204f8fcf410.jpg",
+      "26d52537-e234-4313-a3f4-073ad525015c.jpg",
+      "29a569b7-5eab-42a2-90f9-2492e5f04f80.jpg"
+    ],
+    "title": "Dinh III Bảo Đại"
+  },
+  {
+    "description": "Thác Prenn là một thác nước ở thành phố Đà Lạt thuộc tỉnh Lâm Đồng, Việt Nam. Thác Prenn nằm cạnh quốc lộ 20, ở cửa ngõ vào TP.Đà Lạt là một trong những KDL sinh thái về rừng, suối. Thác ở chân đèo Prenn cách trung tâm Đà Lạt khoảng 10 km. Thác nằm trong khu rừng nguyên sinh còn sót lại. Dòng nước từ trên ghềnh đá với độ cao hơn 20m cao đổ xuống trắng xóa như một dải lụa bạch trông tựa mái tóc của nàng Bạch Mao Tiên cô. Có thể vì thế mà một số du khách gọi là thác Tiên Sa. Giữa rừng thông trầm mặc, dáng núi hình rồng, lịch sử huyền thoại ở đất này như hòa làm một, cách mô phỏng khéo léo về mặt kiến trúc tạo sự linh thiêng từ địa thế, địa linh. Tâm hồn chiêm bái như hướng về đất tổ hướng về lịch sử xa xưa của dân tộc Việt Nam.",
+    "images": [
+      "f33341f0-d1e5-4a0b-b403-11d926dc9527.jpg",
+      "0ad399f5-c579-42b3-97f0-511a59ff3c57.jpg",
+      "64b5cd96-57dd-4fc4-a5fe-fd8e2ec41abf.jpg"
+    ],
+    "title": "Khu Du Lịch Thác Prenn"
+  },
+  {
+    "description": "Hồ nước thơ mộng xây từ năm 1919 nhờ đập nước",
+    "images": [
+      "92bb5ad1-1e35-4713-b118-73f49d6d1fa4.jpg",
+      "1212fcc8-9ac9-4e27-9f83-83a9d8566ccf.jpg",
+      "9425d024-ee39-4f5c-800b-069e8613de08.jpg"
+    ],
+    "title": "Hồ Xuân Hương"
+  },
+  {
+    "description": "Quảng trường",
+    "images": [
+      "1e6ff23f-8ec8-4778-b2b6-0adfcee88611.jpg",
+      "6e8a9dde-aee5-4bab-a73b-0959e581325b.jpg",
+      "55bbd44e-e5bd-4443-9dfd-4c2a71f0fea8.jpg"
+    ],
+    "title": "Quảng trường Lâm Viên"
+  },
+  {
+    "description": "Thác Voi hay có tên là thác Liêng Rơwoa, thuộc thị trấn Nam Ban, huyện Lâm Hà, Lâm Đồng, nằm trên dòng sông Cam Ly. Thác nằm cách Đà Lạt chừng 25 km, có chiều rộng khoảng 40m, chiều cao hơn 30m. Bên thác có những tảng đá như chú voi con nên có tên gọi là thác Voi. Thác Voi ngày đêm ầm ầm đổ nước tạo nên những âm thanh như tiếng gầm của thú rừng. Đây là một trong số ít thác còn giữ được nét hoang sơ của miền đất Tây Nguyên. Năm 2001 thác Voi đã được công nhận là di tích - thắng cảnh quốc gia. Mặc dù dự án tôn tạo thác Voi được phê duyệt từ năm 2002 nhưng hiện nay, do không được quan tâm bảo trì đúng mức, cảnh quan thác Voi đang bị phá hủy.",
+    "images": [
+      "d387779d-3a4c-472b-8d16-bae3833ea425.jpg",
+      "ccd75de6-417f-4e33-95db-0df67d160c64.jpg",
+      "c5635b41-c1eb-4aac-a751-33864ffefe74.jpg"
+    ],
+    "title": "Khu Du Lịch Thác Voi - Đà Lạt"
+  },
+  {
+    "description": "",
+    "images": [
+      "f93883fb-27b1-4f19-a883-8d65cdfc8702.jpg",
+      "e8a4bd71-c18d-4490-ba13-a7f0fadaf77f.jpg",
+      "6e6ec2d4-8916-4259-81e7-eb4f0b4ad142.jpg"
+    ],
+    "title": "Công ty Cổ phần Chè Cầu Đất Đà Lạt"
+  },
+  {
+    "description": "Thung lũng vàng là khu du lịch thuộc địa phận thành phố Đà Lạt, tỉnh Lâm Đồng. Nằm cách trung tâm thành phố 15 km về hướng Tây Bắc, thung lũng vàng nằm trên Cao nguyên Lâm Viên với khí hậu nơi đây khá mát mẻ và trong lành. Wikipedia",
+    "images": [
+      "dab6d577-1e03-40d5-ab8c-332af6219f06.jpg",
+      "9f985975-2d16-4464-ac45-6e2758795b3e.jpg",
+      "63ea2f2e-e14e-4186-aae4-393f54645fe0.jpg"
+    ],
+    "title": "Thung Lũng Vàng"
+  },
+  {
+    "description": "Công viên với tác phẩm điêu khắc đất sét",
+    "images": [
+      "ae7a6c30-280a-459a-827a-49e2d31b69d5.jpg",
+      "a255f1b0-1f9e-48c5-9766-eb4801f20fb3.jpg",
+      "aeee523c-8643-4fe3-8fa6-2f483b87c255.jpg"
+    ],
+    "title": "Đường Hầm Điêu Khắc"
+  },
+  {
+    "description": "Hồ Than Thở là một hồ nước tự nhiên thuộc thành phố Đà Lạt và cũng là một địa điểm du lịch của thành phố này. Tạp chí Indochine số 28 ra ngày 13 tháng 3 năm 1941 chọn ảnh hồ Than Thở làm ảnh bìa. Wikipedia",
+    "images": [
+      "f8aec0e8-81d2-40b3-a9ad-7d5472b8b91b.jpg",
+      "287ecb4b-574b-4baf-968d-f77b9e9a55d4.jpg",
+      "1b82565c-8e43-42d2-9f73-afa722c21feb.jpg"
+    ],
+    "title": "Hồ Than Thở"
+  },
+  {
+    "description": "Nhà thờ chính tòa Ðà Lạt là một nhà thờ Công giáo ở Việt Nam. Đây là nhà thờ chính tòa của vị giám mục Giáo phận Đà Lạt, cũng là nhà thờ lớn nhất Đà Lạt, một trong những công trình kiến trúc tiêu biểu và cổ xưa nhất của thành phố này do người Pháp để lại. Nhà thờ nằm tại số 13 đường Trần Phú, phường 3, thành phố Đà Lạt, tỉnh Lâm Đồng, Việt Nam. Wikipedia",
+    "images": [
+      "78292a3e-827d-4fa5-840a-6270b654ce9d.jpg",
+      "2c3227cf-1ad2-45a2-8007-acfca33bfcb9.jpg",
+      "fbbdd289-89b2-481b-9a6a-bb2de1b14c09.jpg"
+    ],
+    "title": "Nhà Thờ Chánh Tòa Giáo Phận Đà Lạt"
+  },
+  {
+    "description": "Chùa Linh Sơn là một trong những ngôi chùa lớn và lâu đời ở thành phố Đà Lạt, tỉnh Lâm Đồng. Chùa nằm trên một ngọn đồi thấp, ở tại số 120 đường Nguyễn Văn Trỗi, và cách trung tâm thành phố khoảng 700m về phía Tây Bắc. Chùa được Hội Phật học Trung Phần khởi công xây dựng vào năm 1938, và hoàn thành vào năm 1940. Đây là một quần thể kiến trúc bao gồm nhiều hạng mục trên một khu vực rộng khoảng 4 hecta. Trong chùa, hiện có một pho tượng Phật Thích Ca ngồi trên tòa sen bằng đồng nặng 1250 kg, đúc năm 1952, và một đại hồng chung cũng bằng đồng, năng 700 kg, đúc năm 1958. Hiện nay, chùa Linh Sơn là nơi đặt văn phòng của Tỉnh hội Phật giáo Lâm Đồng... Từ năm 1938 tới nay, chùa trải qua các đời trụ trì: Hòa thượng Thích Trí Thủ, Hòa thượng Thích Diệu Hoằng, Hòa thượng Thích Từ Mãn, Hòa thượng Thích Bích Nguyên; và từ năm 1964 là Hòa thượng Thích Từ Mãn.",
+    "images": [
+      "d7c4cbc2-3dce-405b-b1e2-2a1bd493200d.jpg",
+      "0e27405f-2911-422f-8de2-48e3cd1a58f5.jpg",
+      "2f3b6ac3-55e3-4032-8b72-e0dff64a67b9.jpg"
+    ],
+    "title": "Chùa Linh Sơn"
+  },
+  {
+    "description": "Nhà thờ Domaine de Marie còn được gọi là Nhà thờ Vinh Sơn, Nhà thờ Mai Anh. Đây là một cụm kiến trúc bao gồm nhà nguyện và hai dãy nhà tu viện nữ tử Bác Ái Thánh Vinh Sơn với tổng diện tích là 12 ha nằm trên đường Ngô Quyền cách trung tâm thành phố Đà Lạt vào khoảng 1 km về hướng tây nam. Wikipedia",
+    "images": [
+      "9315fa61-7db7-4350-baf3-4adf5ee6d87e.jpg",
+      "57c3cd27-773d-4edd-b694-f7a922222c73.jpg",
+      "66b00f6f-84b2-4ec4-90d9-9be3a6458068.jpg"
+    ],
+    "title": "Nhà Thờ Domaine De Marie"
+  },
+  {
+    "description": "Thác Cam Ly là thác trên sông Cam Ly ở Phường 5 thành phố Đà Lạt. Thác cách khu Hòa Bình 2,3 km về phía đông - nam. Wikipedia",
+    "images": [
+      "675549cb-ec09-4fb5-838d-a745cd0b990b.jpg",
+      "88303052-5fac-4587-85d6-b3f8b7d3fdc2.jpg",
+      "c96a252a-a9c4-40a2-99fe-9cdd350bb586.jpg"
+    ],
+    "title": "Thác Cam Ly"
+  },
+  {
+    "description": "Thắng cảnh",
+    "images": [
+      "dcf2c87b-f2ff-4d61-8783-402bd9837604.jpg",
+      "a844e394-bbc4-45b7-9438-a665c35c728e.jpg",
+      "b6bd6739-d76b-478a-9d0d-a29ccdd0eff1.jpg"
+    ],
+    "title": "Đồi Mộng Mơ Đà Lạt"
+  },
+  {
+    "description": "Vườn",
+    "images": [
+      "dcf83869-d569-4178-aed4-17fbb2c1930c.jpg",
+      "0c6cabba-c3f1-4591-a0e4-5342bb6f2fc7.jpg",
+      "97ee7b03-20e5-4aa2-8599-6180997e87d0.jpg"
+    ],
+    "title": "Cánh đồng hoa Cẩm Tú Cầu"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "d2f92c39-2b35-4b4b-9362-87132e99bb7a.jpg",
+      "3d07bc62-e81b-4e14-879a-31e599f2271c.jpg",
+      "662bc4e8-8288-48e2-b2a0-d6aea0ce6f44.jpg"
+    ],
+    "title": "Làng Hoa Vạn Thành"
+  },
+  {
+    "description": "Cắm trại",
+    "images": [
+      "c5c009c6-8af6-410c-9cfe-2693b80ee589.jpg",
+      "8462d13b-1715-4d66-948d-591ba8a94061.jpg",
+      "d70b3268-ad82-4a24-b976-f5166ef219bb.jpg"
+    ],
+    "title": "Đồi Thiên Phúc Đức"
+  },
+  {
+    "description": "Hồ",
+    "images": [
+      "9c2d6eab-ea66-47c7-bc32-1dffb11d3195.jpg",
+      "98b9d7d5-9257-43b8-bc54-561e22ac7c6c.jpg",
+      "ae5ce433-672b-4d47-83f3-85f053e4120b.jpg"
+    ],
+    "title": "Hồ Suối Vàng"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "e19e0b83-9cdc-49a0-94af-c96d7f28c269.jpg",
+      "98487319-9b82-44c1-809e-928361a227ce.jpg",
+      "453d19c5-3ca2-439f-b8cb-f6e947d96130.jpg"
+    ],
+    "title": "Đồi Cỏ Hồng Đà Lạt"
+  },
+  {
+    "description": "Hồ Dankia - Suối Vàng là cụm hồ ở vùng đất thôn Đan Kia, thị trấn Lạc Dương, huyện Lạc Dương, tỉnh Lâm Đồng. Hồ Dankia - Suối Vàng một thắng cảnh nổi tiếng của tỉnh Lâm Đồng, ở cách thành phố Đà Lạt 20 km về phía Bắc. Hồ Dankia - Suối Vàng gồm có hai hồ là Dankia ở phía trên và Ankroet ở dưới. Hai hồ con này được tạo bởi hai đập cùng tên Ankroet chắn sông Đa Dâng, con sông bắt nguồn từ núi Langbian. Cạnh hồ là một thác nước cũng mang tên thác Ankroet cao 15 thước. thác này đã được Toàn quyền Pháp Decoux chọn làm nơi xây dựng nhà máy thủy điện đầu tiên của Đà Lạt vào năm 1942 mang tên Nhà máy thủy điện Ankroet 11°59′55″B 108°21′36″Đ với công suất 3 MW. Đây là hồ nước ngọt lớn nhất tại Đà Lạt với sức chứa khoảng 20 triệu khối nước. Hồ là nơi cung cấp nước sinh hoạt cho thành phố Đà Lạt. Wikipedia",
+    "images": [
+      "5a5d40a9-3656-4a02-bbf8-3ba20cbd37f3.jpg",
+      "b9ab1c2c-9741-461f-bdb4-3924401e85c1.jpg",
+      "451f1482-f5cb-482f-b586-1621babba144.jpg"
+    ],
+    "title": "Hồ Dankia - Suối Vàng"
+  },
+  {
+    "description": "Đồi thông hai mộ là một địa điểm tham quan du lịch nằm trên đồi thông bên bờ hồ Than Thở, Đà Lạt. Nơi này được nhiều người biết đến vì gơi nhớ một câu chuyện tình buồn của một đôi trai gái trẻ. Wikipedia",
+    "images": [
+      "d6644e30-97da-4e19-8553-ad30f9740f6b.jpg",
+      "8deaacc4-764e-4146-a6d5-940a95d9531b.jpg",
+      "22ab502d-9f17-407c-b3a2-95025d063727.jpg"
+    ],
+    "title": "Đồi Thông Hai Mộ"
+  },
+  {
+    "description": "Vườn thực vật",
+    "images": [
+      "7ae64b03-db8c-4d8c-8deb-c86755d4f0ab.jpg",
+      "2c519fab-79ef-4214-a710-c7a6551e1057.jpg",
+      "e7c8ca81-c34b-4aa8-bfbb-2b03aca50ffc.jpg"
+    ],
+    "title": "Vườn Hoa Cẩm Tú Cầu"
+  },
+  {
+    "description": "Thắng cảnh",
+    "images": [
+      "f0c5357c-fd97-4451-b9a0-d2284b986fea.jpg",
+      "6641a9c3-ac7b-44b2-8353-de5d923e53ee.jpg",
+      "fe90c98d-7827-4000-bafb-d1d58825b753.jpg"
+    ],
+    "title": "Săn mây đà lạt"
+  },
+  {
+    "description": "Bảo tàng Lâm Đồng là nơi trưng bày các hiện vật truyền thống và lịch sử của địa phương, đặc biệt là những hiện vật thể hiện truyền thống văn hóa của vùng đất Lâm Đồng. Bảo tàng ở số 4 đường Hùng Vương của Đà Lạt, trên một ngọn đồi cao. Trước kia đây là dinh thị trưởng, trên đỉnh đồi cao quanh co rất thơ mộng nên được mệnh danh là con đường tình ái. Tòa biệt thự là của ông Nguyễn Hữu Hào, một cự phú cực kỳ giàu có, cha của Hoàng hậu Nam Phương. Bảo tàng có 9 phòng trưng bày gồm các chuyên mục: Các thời kỳ lịch sử. Các hiện vật khảo cổ do cơ quan công an và quản lý thị trường thu giữ. Các hiện vật khảo cổ tại di chỉ Đại Làng. Các hiện vật khảo cổ tại di chỉ Đại Lào và Đạ Đờn. Các hình thức cư trú, các dụng cụ săn bắt và hái lượm. Các nghề truyền thống. Các trang phục và sinh hoạt. Lễ hội truyền thống và đời sống văn hóa tinh thần. Các hiện vật về 2 cuộc kháng chiến chống Pháp và chống Mỹ.",
+    "images": [
+      "6f322880-e1ca-4c31-b239-534d9406a5bd.jpg",
+      "d538d886-52e5-4171-965c-f25e18cf65a9.jpg",
+      "ee39065b-4f51-40ae-93a4-1b8b8fed7eb7.jpg"
+    ],
+    "title": "Bảo tàng Lâm Đồng"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "aa4d75b9-bb2f-440f-b19a-15579c1c23d0.jpg",
+      "a966be81-4252-4c11-9ae5-53da5943fe11.jpg",
+      "a762963b-73be-47e8-a47a-25f81f1ed069.jpg"
+    ],
+    "title": "Khu Du Lịch Lá Phong Đà Lạt"
+  },
+  {
+    "description": "Đi cáp treo ngắm rừng thông từ trên cao",
+    "images": [
+      "06373b6a-025d-4ef8-bc29-d9b408c36395.jpg",
+      "87658f8f-1fe1-4f73-a040-6dd25026d912.jpg",
+      "6dc27aed-3319-4a13-9533-e4f093369fbd.jpg"
+    ],
+    "title": "Nhà Ga Cáp Treo Đà Lạt"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "ae787901-db29-49e9-86aa-f27542198e24.jpg",
+      "76dd669d-acaf-492c-be2e-b135636642a7.jpg",
+      "fbd81979-ff55-40e4-8d60-29b6d89b6395.jpg"
+    ],
+    "title": "Vườn hoa lavender"
+  },
+  {
+    "description": "Nghệ thuật",
+    "images": [
+      "80843bd8-56a4-44df-9018-0037b0d6329b.jpg",
+      "f1c590b6-c2f5-468e-8f11-6c4f59a08ab5.jpg",
+      "c03d017b-eb42-4a62-ac16-6cbfbb43c28b.jpg"
+    ],
+    "title": "XQ Đà Lạt Sử Quán"
+  },
+  {
+    "description": "Cao nguyên Lâm Viên là một cao nguyên thuộc Tây Nguyên, Việt Nam với độ cao trung bình khoảng 1.500 m so với mực nước biển. Phía nam cao nguyên có thành phố Đà Lạt. Phía đông và đông nam dốc xuống thung lũng sông Đa Nhim, tây nam hạ đột ngột xuống cao nguyên Di Linh. Diện tích khoảng 1.080 km². Địa hình đồi núi trập trùng độ dốc dao động 8-10°. Tại đây có các đỉnh núi cao như Bi Doup, Lang Biang, Hòn Giao. Nước sông trên cao nguyên chảy chậm; những chỗ bị chặn lại toả rộng thành hồ như hồ Xuân Hương, hồ Than Thở, hồ Đa Thiện, hồ Đan Kia, thác Cam Ly. Rìa cao nguyên có các thác lớn như Pren, Gù Gà, Ankrôet, thác Voi. Phong cảnh đẹp, khí hậu trong lành phù hợp cho trồng rau và hoa quả ôn đới quanh năm, có rừng thông ba lá và thông năm lá diện tích lớn. Cao nguyên này chỉ chiếm khoảng 30% diện tích của toàn tỉnh Lâm Đồng, nằm trên các huyện Lạc Dương, Đam Rông và thành phố Đà Lạt. Wikipedia",
+    "images": [
+      "8ae97f97-50d0-44fa-bd50-192451084f47.jpg",
+      "cde76b79-1fbe-4e5d-bdf4-9c8b20e2e297.jpg",
+      "404acc6d-bb57-4344-a6f5-4831dba5c656.jpg"
+    ],
+    "title": "Cao nguyên Lâm Viên"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "224af2b7-aa66-4e6e-bb47-e75ea2c54c7b.jpg",
+      "fe4a5fd6-0f51-482b-acbf-e77b8ef0ad86.jpg",
+      "ade29fec-7534-4dd3-ae3a-4a35bb792f72.jpg"
+    ],
+    "title": "Tuyệt Tình Cốc"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "f469ba42-7167-40ed-9252-0937903f05cd.jpg",
+      "39c6de4e-bc42-474f-bb7e-2b763ea2c55d.jpg",
+      "38dee308-c8af-43d9-9e79-10b507417178.jpg"
+    ],
+    "title": "VƯỜN DÂU NHẬT"
+  },
+  {
+    "description": "Thiền viện Vạn Hạnh là thiền viện tọa lạc tại địa chỉ 142 đường Phù Đổng Thiên Vương, phường 8, thành phố Đà Lạt. Đây là ngôi thiền viện lâu đời, là một trong những điểm tham quan nổi tiếng của thành phố Đà Lạt. Wikipedia",
+    "images": [
+      "4dfd570f-a301-4b91-bba5-a6f8ca18566c.jpg",
+      "c89c5941-3541-4d82-8422-ced28266a0de.jpg",
+      "c59377b4-3961-45ec-97ba-96866e51e6c2.jpg"
+    ],
+    "title": "Thiền viện Vạn Hạnh"
+  },
+  {
+    "description": "Thác Hang Cọp là một thác nước thuộc thành phố Đà Lạt. Thác có chiều cao khoảng 50 mét. Nằm cách quốc lộ 20b khoảng 2,7 km về phía đông, thuộc ấp Túy Sơn, xã Xuân Thọ, thành phố Đà Lạt. Wikipedia",
+    "images": [
+      "af99a488-6853-4996-8e94-f7b6d3f4ded9.jpg",
+      "f70f40b8-3aa2-48d0-a991-128b82661a90.jpg",
+      "c490444f-38d0-424b-a4ef-3c3e0a532f68.jpg"
+    ],
+    "title": "Thác hang cọp"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "dd34456b-9d08-446c-a013-fa729eb9a616.jpg",
+      "cf81013d-ee0c-4c40-a784-1cc955cbae45.jpg",
+      "683b4dec-2d15-4c6a-96ad-8173f2cf6809.jpg"
+    ],
+    "title": "Fresh Đà Lạt"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "70ce5dee-c59e-4106-8d8f-0e020cc2f621.jpg",
+      "217dd0da-0a10-44cf-b60b-b03abfe6b34d.jpg",
+      "59d53854-a5d6-4509-8ef2-a9a529bac34c.jpg"
+    ],
+    "title": "Fresh Garden"
+  },
+  {
+    "description": "Biệt điện Trần Lệ Xuân là một quần thể gồm ba biệt thự nằm ở số 2 đường Yết Kiêu, thành phố Đà Lạt tỉnh Lâm Đồng, Việt Nam. Vào thời kỳ Đệ Nhất Cộng hòa Việt Nam, công trình này là nơi nghỉ của gia đình Trần Lệ Xuân, Ngô Đình Nhu. Sau khi Ngô Đình Nhu và anh trai là Tổng thống Ngô Đình Diệm bị ám sát, Trần Lệ Xuân sống lưu vong, công trình này trở thành địa điểm du lịch. Sau đó, khu biệt thự được dùng làm Bảo tàng Sắc tộc Tây Nguyên và ngày nay trở thành Trung tâm Lưu trữ quốc gia IV, nơi lưu giữ Mộc bản triều Nguyễn. Biệt điện Trần Lệ Xuân gồm ba biệt thự: Biệt thự Bạch Ngọc: nơi giải trí của gia đình Trần Lệ Xuân và sĩ quan cao cấp thời kỳ Đệ Nhất Cộng hòa. Biệt thự Hồng Ngọc: Trần Lệ Xuân xây dựng dự định dành cho cha của mình, ông Trần Văn Chương. Biệt thự Lam Ngọc: nơi nghỉ cuối tuần của riêng gia đình Trần Lệ Xuân. Toàn bộ khuôn viên khu biệt thự rộng trên 13 ngàn mét vuông. Biệt thự Bạch Ngọc được trang bị hồ bơi nước nóng. Phía sau biệt thự Lam Ngọc là vườn hoa Nhật Bản. Biệt thự Lam Ngọc còn có đường hầm thoát hiểm và hầm trú ẩn. Sau một thời gian trùng tu, Biệt điện Trần Lệ Xuân được mở của lại vào năm 2008.",
+    "images": [
+      "8c55206a-c251-4909-b7c0-5219abc632e3.jpg",
+      "bbbf8693-3e49-4bbe-895e-c8a36cafa057.jpg",
+      "7c6d2a60-0dc6-4f5f-af49-4439c2a0950e.jpg"
+    ],
+    "title": "Biệt điện Trần Lệ Xuân"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "f9c4b646-9454-4a03-a941-87f22805e09a.jpg",
+      "979a9391-3bb9-4e16-8c97-ef23e22b16de.jpg",
+      "227864a5-3ad8-4670-9bbd-6cdb726857c2.jpg"
+    ],
+    "title": "Khu Du Lịch Rừng Lá Phong"
+  },
+  {
+    "description": "Hồ",
+    "images": [
+      "4ae4031a-1b13-4780-8dd6-7ad116bcbfba.jpg",
+      "a860b362-87b2-4d61-9369-c6d67747ba26.jpg",
+      "1229699d-c95c-420b-b4ea-8bc750631d68.jpg"
+    ],
+    "title": "Hồ Tuyền Lâm"
+  },
+  {
+    "description": "Dinh I là một công trình kiến trúc tại thành phố Đà Lạt, Việt Nam. Dinh I được một triệu phú người Pháp tên là Robert Clément Bourgery xây dựng vào năm 1940 trên một ngọn đồi, độ cao 1550m có rừng thông bao quanh. Diện tích khu vực khoảng 60 ha. Khi vua Bảo Đại quay lại nắm quyền, thấy nơi đây yên tĩnh và đẹp nên mua lại vào năm 1949 và sửa sang lại. Dinh I là một công trình kiến trúc độc đáo, dáng vẻ cổ kính. Đến thời tổng thống Ngô Đình Diệm, Dinh I được sửa sang lại, làm thêm đường hầm, hai bên có phòng làm việc của các phụ tá và sĩ quan… Sau khi Ngô Đình Diệm bị ám sát, Dinh I vẫn được dùng làm nơi nghỉ mát của các nguyên thủ quốc gia kế tiếp của chế độ Sài Gòn cho đến năm 1975. Wikipedia",
+    "images": [
+      "1f50a2cc-9d29-408a-a4d4-9591e67fb84f.jpg",
+      "230618f8-2fbc-46c0-bd9c-618aa33aaa65.jpg",
+      "cbdacf37-cc97-48a2-bb03-76ae457c1f33.jpg"
+    ],
+    "title": "Dinh I"
+  },
+  {
+    "description": "Nhà thờ Cam Ly hay Nhà thờ Sơn Cước là một nhà thờ của Giáo hội Công giáo Việt Nam tại thành phố Đà Lạt, Lâm Đồng, Việt Nam. Nhà thờ phục vụ chủ yếu cho người dân tộc thiểu số. Nhà thờ do linh mục Boutary, người Pháp, đã gắn bó nhiều năm với người dân tộc thiểu số và nhà thầu Đỗ Kiều đứng ra xây dựng. Nhà thờ được xây dựng trong 6 năm từ 1960-1968. Wikipedia",
+    "images": [
+      "2856c046-fbe6-4766-852f-6c73e9af24f3.jpg",
+      "9ff70379-f63a-4ef4-b00b-afc2b8a5b56d.jpg",
+      "0bc62da0-0fdf-4069-97a0-3936b555c06b.jpg"
+    ],
+    "title": "Giáo xứ Cam Ly"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "f02c52b3-cf82-48bc-b876-fc6d15fc2634.jpg",
+      "37898a4d-a9e3-48bf-b9df-642883c0b480.jpg",
+      "184e0424-abb1-46df-932f-eed4c652d243.jpg"
+    ],
+    "title": "Du Lịch Nhà Vườn Đà Lạt"
+  },
+  {
+    "description": "Chùa Linh Quang tọa lạc tại số 133 đường Hai Bà Trưng, thành phố Đà Lạt. Đây là ngôi chùa đầu tiên được xây dựng tại thành phố này vì thế còn có tên gọi là Linh Quang tổ đình. Ngôi chùa do Hoà thượng Thích Nhân Thứ tạo lập vào năm 1931, sau đó được các hoà thượng trụ trì kế tiếp trùng tu, đặc biệt là vào năm 1958 và năm 1972 dưới thời Hòa thượng Thích Minh Cảnh trụ trì. Ngôi chùa đã được vua Bảo Đại ban sắc tứ vào năm 1938. Chùa có lối kiến trúc cổ, mái chồng cong, trên mái hình long, lân, quy, phụng được gắn bằng những mảnh sành đủ màu sắc. Tòa chính điện chùa Linh Quang dài 20 mét, gồm ba gian thông nhau. Tiền điện có 4 trụ đồng đắp rồng. Phía trên cửa chính vào nội điện có chữ \"Chùa Linh Quang\". Chính điện thờ Phật Thích Ca ngồi trên tòa sen, hai bên là Bồ tát Quán Thế Âm và Hộ pháp. Phía sau chính điện là nhà Tổ thờ Bồ Đề Đạt ma. Trong khuôn viên chùa còn có ba bảo tháp và một tượng Quan Thế Âm thị hiện trên thân một con rồng dài bằng xi măng cốt thép được tạo tác rất mỹ thuật. Wikipedia",
+    "images": [
+      "5aede9cb-514f-42f0-b25d-cd23be3ca93b.jpg",
+      "3fccf5e4-9ad3-4f93-b504-a2975637c218.jpg",
+      "4790ae9b-37b0-4007-8866-5c313af43cfb.jpg"
+    ],
+    "title": "Chùa Linh Quang"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "eacc7bde-2f63-45a1-b97f-f2d7a9a85ebf.jpg",
+      "530cd42a-ee2b-49de-a5ce-e5617a9c5432.jpg",
+      "54bc5674-47b9-4b46-8d31-7dc6d82e9338.jpg"
+    ],
+    "title": "Vườn Bí Ngô Khổng Lồ"
+  },
+  {
+    "description": "Đèo Prenn là một đèo núi trên quốc lộ 20 ở cửa ngõ phía nam thành phố Đà Lạt tỉnh Lâm Đồng, Việt Nam. Đèo Prenn có chiều dài 11 km, thuộc địa phận phường 3, chân đèo cách trung tâm Đà Lạt khoảng 12 km. Tên gọi \"Prenn\" bắt nguồn từ tiếng Chăm nghĩa là xâm chiếm. Từ này phát sinh do đèo Prenn uốn lượn qua một thác rất đẹp mang tên thác Prenn. Wikipedia",
+    "images": [
+      "e9b77352-a1d4-4cec-b0ad-baf394c8e20f.jpg",
+      "e25f7d14-cbe5-4f85-a940-a2fbd1f877ba.jpg",
+      "f55fad53-d48a-4dad-83fe-5e0d34dcb1ce.jpg"
+    ],
+    "title": "Đèo Prenn"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "7a42c5dc-320b-4000-8b85-47a2a377f026.jpg",
+      "b30fe206-21e8-422b-96b4-00248a21542a.jpg",
+      "3933e5be-df88-4886-b334-83e06304081f.jpg"
+    ],
+    "title": "Dinh Bảo Đại I"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "67121789-3054-4458-ab20-bfdd14517670.jpg",
+      "42c47d37-23b6-41a4-9bba-b49bc6751595.jpg",
+      "47287e7f-7359-418f-8794-700327025ed5.jpg"
+    ],
+    "title": "Đồi Robin"
+  },
+  {
+    "description": "Núi",
+    "images": [
+      "02e43921-2b05-49fe-9f68-f35c51ba618e.jpg",
+      "50a796f3-1c6e-4cc2-ae76-e5a531e48132.jpg",
+      "8b2d2541-ee3b-4ce2-9dcb-1ac952b891d1.jpg"
+    ],
+    "title": "Lang Bian"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "068ae636-2d04-4591-89dc-ade31be16311.jpg",
+      "03ed2c01-ab48-4cac-931d-2a8fb85ae67c.jpg",
+      "7b17f339-6a75-434b-a444-7474c370e16d.jpg"
+    ],
+    "title": "Nông Trại Cún - Puppy Farm"
+  },
+  {
+    "description": "Công viên giải trí",
+    "images": [
+      "b6ed4789-f1bf-4482-b43f-ec847ddb11e6.jpg",
+      "6ce5b744-ca12-4e3e-92f6-a3f818d72ae2.jpg",
+      "7298a219-bd91-4885-8734-da46607a09c8.jpg"
+    ],
+    "title": "DALAT FAIRYTALE LAND"
+  },
+  {
+    "description": "Vườn thực vật",
+    "images": [
+      "3e6cb9a5-66c8-4300-9768-3d9237d8bca7.jpg",
+      "24874abd-9db7-4579-8dd9-50c1207391cd.jpg",
+      "10533c19-2f6b-4ec6-8c03-3372751f142b.jpg"
+    ],
+    "title": "Làng Hoa Hà Đông"
+  },
+  {
+    "description": "Đồi Cù là khu đồi nằm giữa trung tâm thành phố Đà Lạt kế bên là Hồ Xuân Hương do vậy thường được nhắc đến như một địa danh dính liền nhau - nhiều người cho rằng Đà Lạt sẽ kém phần mỹ lệ nếu thiếu Đồi Cù và Hồ Xuân Hương. Năm 1942, khi thiết kế đồ án quy hoạch thành phố Đà Lạt, kiến trúc sư Lagisquet đã khoanh vùng Đồi Cù như một khu vực bất khả xâm phạm nhằm tạo một tầm nhìn thoáng đãng cho Đà Lạt. Về sau, một kiến trúc sư người Anh đã thiết kế biến Đồi Cù thành sân golf 9 lỗ khá nổi tiếng của vùng Đông Nam Á và hiện nay Đồi Cù đã được nâng cấp thành sân golf 18 lỗ. Tên Đồi Cù không rõ có từ bao giờ, và vì sao gọi là \"Đồi Cù\" lại có hai hướng lý giải, có người cho rằng những quả đồi thoai thoải nơi đây khi nhìn từ xa giống như tấm lưng trần của những con cù khổng lồ nên đã ví von gọi là \"Đồi Cù\"; cũng có người giải thích sở dĩ có tên \"Đồi Cù\" vì nơi đây là một địa điểm chơi golf hay còn gọi là đánh cù. Wikipedia",
+    "images": [
+      "d53b1f9e-2b64-409e-b711-70c13256d445.jpg",
+      "2c141ef6-e604-414c-bfe1-57722e2e7498.jpg",
+      "a1cf7851-cebd-4ab2-831d-d64590a32405.jpg"
+    ],
+    "title": "đồi Cù"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "8de5e9b7-03a1-476a-9162-f0143b8d33a1.jpg",
+      "ce2f663f-1383-48ac-82a6-e924cc827613.jpg",
+      "78fc75e0-8e48-4c1a-8194-f6019eeb6125.jpg"
+    ],
+    "title": "Khu Du Lịch Lavender Đà Lạt"
+  },
+  {
+    "description": "Bảo tàng",
+    "images": [
+      "0e3ad1ea-a68f-4978-9810-a5b351555bea.jpg",
+      "5f24036d-cadc-4c98-8247-acccd2026640.jpg",
+      "ea482eca-be62-4169-9822-cabc177e4878.jpg"
+    ],
+    "title": "Ga Xe Lửa Đà Lạt"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "ee683d22-fd89-4c02-ba29-d771dfdcb2e3.jpg",
+      "082a328b-d6b2-4627-826e-cdc2439b253d.jpg",
+      "95ac2d2c-d42f-45d0-9592-5b10d7b3b90d.jpg"
+    ],
+    "title": "Đồi Robin"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "7a4e25b5-e191-4942-aaac-90a1668954af.jpg",
+      "59a70057-76f6-4e0a-8eeb-5bea5396fc28.jpg",
+      "16548885-5032-472e-8354-6bd3ac63e424.jpg"
+    ],
+    "title": "Khu Du Lịch Lang Biang"
+  },
+  {
+    "description": "Lịch sử và viện bảo tàng",
+    "images": [
+      "155262c6-ea0c-4246-8799-37c31959069a.jpg",
+      "9134f223-02c7-4a44-a3bf-719c2f4e2c17.jpg",
+      "a0e10e5e-2708-473f-9b8c-4c7bc02f0d0a.jpg"
+    ],
+    "title": "Phân viện sinh học- Viện nghiên cứu khoa học Tây Nguyên"
+  },
+  {
+    "description": "Phật giáo và Đền",
+    "images": [
+      "99c841c3-51c2-4955-8b34-b536da67dcc5.jpg",
+      "53d4215d-db84-455e-ade7-35258b4b4571.jpg",
+      "963de201-55b1-4a9a-bcdf-ac876bbc20fe.jpg"
+    ],
+    "title": "Chùa Linh Ẩn"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "e472c06d-9fb1-462c-a259-6a7e03820bde.jpg",
+      "d57aaed6-7866-4ecf-be5a-a19cd6813c2b.jpg",
+      "b35ff019-ec3e-4a40-961f-7409e2d6ae68.jpg"
+    ],
+    "title": "Du Lịch Đất Sét"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "21005df8-5c0a-4f59-922c-7ee14be183b5.jpg",
+      "5273172a-468e-41b2-a303-27a428acc48e.jpg",
+      "8de131d5-b69c-42df-9f93-29d3f4ad390d.jpg"
+    ],
+    "title": "Hoa Dalat Travel Tour đà lạt"
+  },
+  {
+    "description": "Dinh II là một công trình kiến trúc tại thành phố Đà Lạt, Việt Nam. Dinh II nằm trên một ngọn đồi thông ở độ cao 1.540m so với mực nước biển, cạnh đường Trần Hưng Đạo, cách trung tâm Đà Lạt 2 km về hướng Đông-Nam. Công trình xây dựng vào năm 1933, có tới 25 phòng sang trọng. Dinh II là Dinh thự mùa hè của Toàn quyền Đông Dương Jean Decoux, nên còn gọi là Dinh Toàn quyền. Dinh II là nơi ở và làm việc của Jean Decoux vào mùa hè hàng năm, từ tháng 5 đến tháng 10. Để bảo đảm an toàn tuyệt đối cho bản thân và gia đình, Toàn quyền Jean Decoux đã cho xây dựng những đường hầm bí mật và kiên cố. Thời kỳ Tổng thống Ngô Đình Diệm, Dinh II là nơi nghỉ mát của gia đình Ngô Đình Nhu và vợ là Trần Lệ Xuân. Tướng Nguyễn Khánh cũng chọn Dinh II làm Tổng hành dinh trong mùa nghỉ mát. Ở Đà Lạt còn hai dinh khác là Dinh I và Dinh III. Wikipedia",
+    "images": [
+      "7217e9cc-2e54-4006-9ada-debf41741a2a.jpg",
+      "4e928681-4fae-4a48-874d-8e4f4f634807.jpg",
+      "9317e54d-d48b-482d-9b78-7940acae2a24.jpg"
+    ],
+    "title": "Dinh II"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "ccb865df-5920-4cc5-8e2e-28dfed708153.jpg",
+      "0d671ddd-8954-4a35-a013-92cb3c4a1cf5.jpg",
+      "eafae012-8d4f-40fd-aa6d-7ce1bb0affeb.jpg"
+    ],
+    "title": "Khu Du Lịch Đá Tiên"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "e83f1c19-751d-4cc4-92ce-2a9f7b9e4f8e.jpg",
+      "413f15a3-a0ef-4165-8a5b-a2496c4f8894.jpg",
+      "da354a7a-1574-49ef-bb50-32a0e492e02f.jpg"
+    ],
+    "title": "Dinh Bảo Đại"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "01ace48f-bcd5-4286-b79b-408d25c0357b.jpg",
+      "1981442f-38a0-4f56-a02c-a4afc0cbe008.jpg",
+      "a8433a20-6faa-4c95-89d8-c2e9f9ddb924.jpg"
+    ],
+    "title": "Dốc Nhà Bò"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "4610524e-8d04-47c8-94f0-886b7af99b7f.jpg",
+      "dd8869c3-0198-460e-9c4a-b011fb97ecb5.jpg",
+      "47ca4921-0999-4da6-889b-1141d1d54442.jpg"
+    ],
+    "title": "Cung Nam Phương Hoàng Hậu"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "a53636ce-ebc4-4090-9aa8-48d3b7d2e651.jpg",
+      "eac925ee-c9db-440d-82c1-b00a531abc72.jpg",
+      "eaa4db0c-13fa-4562-80fc-978c35a302ad.jpg"
+    ],
+    "title": "Dalaland - Khu check in, Coffee"
+  },
+  {
+    "description": "Kiến trúc",
+    "images": [
+      "8068b309-c52f-4974-ba19-4970f5a5fcdd.jpg",
+      "2860624c-b9d7-4930-a99a-195c5080a204.jpg",
+      "14b73843-f4a7-4699-80fd-f5b87bde8d6e.jpg"
+    ],
+    "title": "Chùa Linh Phong"
+  },
+  {
+    "description": "Vườn",
+    "images": [
+      "e66c307c-5f25-42bb-9938-4a86a14842d4.jpg",
+      "42831af1-f942-469d-a2b7-7b5674c47352.jpg",
+      "72c5ad8e-534a-4095-a107-7891c0041aa6.jpg"
+    ],
+    "title": "Vườn Hoa Bích Câu"
+  },
+  {
+    "description": "Cắm trại",
+    "images": [
+      "338d47ed-0267-4844-8e60-d9527adbed0b.jpg",
+      "310d6a76-917c-4286-8347-030e2e178509.jpg",
+      "7528485d-5978-48c4-9b8c-d36799a92a81.jpg"
+    ],
+    "title": "Đồi Đa Phú"
+  },
+  {
+    "description": "Sân chơi",
+    "images": [
+      "21258ff0-bf5e-4079-9980-2c771a9c4634.jpg",
+      "fd3311c3-42b3-4ff2-b6bd-ce0b22a099b9.jpg",
+      "d7261609-14ea-4b8c-9f53-5bf306534f6f.jpg"
+    ],
+    "title": "Hành Trình Trên Cao (High Rope Course)"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "362262a4-f882-41e2-a2fe-c786c2b5feaf.jpg",
+      "c667d2d6-93c6-4ead-9a05-520684e54617.jpg",
+      "20171f72-0116-4267-b474-7bf94ebf4e0d.jpg"
+    ],
+    "title": "Vườn dâu Mỹ"
+  },
+  {
+    "description": "Điểm thu hút khách du lịch",
+    "images": [
+      "edc06c69-e922-458c-b3af-fb4d43d4c6fb.jpg",
+      "b7ea32a5-0858-4178-af58-6321b8b2d6a4.jpg",
+      "861cd2d1-6f86-4eda-8fb1-c6da66d23350.jpg"
+    ],
+    "title": "Khu Du Lịch Trúc Lâm Viên"
+  },
+  {
+    "description": "Thánh thất Đa Phước hay Thánh thất Đà Lạt là một Thánh thất Cao Đài thuộc Tòa Thánh Tây Ninh nằm ở phường 11, thành phố Đà Lạt, tỉnh Lâm Đồng. Thánh thất này trước đây thuộc Tộc đạo Đà Lạt, Châu đạo Lâm Đồng, Trấn đạo Tuyên Đức, nay là Họ Đạo Đà Lạt, tỉnh Lâm Đồng. Wikipedia",
+    "images": [
+      "e63bfff3-e5c4-4cab-922d-69f449cc8280.jpg",
+      "1e7eeeae-3956-473c-b63f-ba347841ae4e.jpg",
+      "56729dce-32bb-4570-a7a3-341e157b3a24.jpg"
+    ],
+    "title": "Thánh thất Đa Phước"
+  },
+  {
+    "description": "Viện bảo tàng và nghệ thuật",
+    "images": [
+      "a0b4ce2d-2560-4c76-b409-e680fd370146.jpg",
+      "9ce083e9-d1ab-41f3-a339-002373df209b.jpg",
+      "fd3f9c79-ef1a-43f5-9b4b-f43a4e683c20.jpg"
+    ],
+    "title": "3D World Da Lat"
+  },
+  {
+    "description": "Nhà lao thiếu nhi Đà Lạt là một bảo tàng và di tích lịch sử tại thành phố Đà Lạt, tỉnh Lâm Đồng, Việt Nam. Đây từng là một nhà tù giam giữ hơn 600 thiếu niên miền Nam ở độ tuổi từ 12 đến 17. Năm 2009, Nhà lao được công nhận là Di tích quốc gia. Wikipedia",
+    "images": [
+      "3643a812-f32a-4351-b1a1-e293377efe17.jpg",
+      "e8802d2e-7ab1-4e96-b4e5-628dba4ae657.jpg",
+      "aece0da7-69d7-4fbc-9824-52782a31c4da.jpg"
+    ],
+    "title": "Nhà lao thiếu nhi Đà Lạt"
+  },
+  {
+    "description": "Hồ",
+    "images": [
+      "ea69529a-1776-40c8-8f17-8c5d09fae4e5.jpg",
+      "3590e146-2d45-4288-97b7-4021446925c2.jpg",
+      "c7af807d-8608-4909-9d6e-615ceb30a566.jpg"
+    ],
+    "title": "Hồ Đa Thiện"
+  },
+  {
+    "description": "Điểm quan tâm",
+    "images": [
+      "7ca1bfe8-21ea-4555-819d-8857d1c47201.jpg",
+      "3c5a3605-a8cf-4ac1-9698-813cbcdb2771.jpg",
+      "91b259d9-dbd8-4da6-95df-5217e2bdbb83.jpg"
+    ],
+    "title": "Dalat Flower Park"
+  },
+  {
+    "description": "Điểm quan tâm",
+    "images": [
+      "e79cb871-d66f-4453-9795-6b5f787ad08c.jpg",
+      "6617ae67-9ef5-4c22-9dff-0e75c13f1a19.jpg",
+      "91a79595-7c29-475e-96fb-a1e822fd3e12.jpg"
+    ],
+    "title": "Da Lat King Palace I"
+  },
+  {
+    "description": "Điểm quan tâm",
+    "images": [
+      "98a65f13-e65c-4d23-a878-456549315b24.jpg",
+      "5257f055-7774-427d-9cd0-e5a18d5709ed.jpg",
+      "b872496b-d814-4471-ae38-0f58b9cc2e12.jpg"
+    ],
+    "title": "Showroom Hoa Khô Đà Lạt"
+  },
+  {
+    "description": "Công viên",
+    "images": [
+      "6ef2b969-d72b-465d-8dcc-7e9d6875d0bf.jpg",
+      "4795eee5-3b56-4833-9546-26de05d26198.jpg",
+      "4ab8eab8-03c1-4b29-9793-8e8bd0b85e5b.jpg"
+    ],
+    "title": "Công Viên Yersin"
+  },
+  {
+    "description": "Điểm quan tâm",
+    "images": [
+      "a7d15feb-a908-40ef-9cff-8922ed7a8d8a.jpg",
+      "a229faa0-88ce-46d6-8bc6-638c81fafef1.jpg",
+      "71bd84fd-f074-4dce-921e-6c9ac1b09bf0.jpg"
+    ],
+    "title": "Lang Biang Trail"
+  },
+  {
+    "description": "Đền",
+    "images": [
+      "3e13aef2-b1d8-43e6-8d5e-2fa7ac192734.jpg",
+      "996e8889-ab47-49bf-95e5-2a332e1f7690.jpg",
+      "5ab65ee1-df36-4c1d-8065-276e761432b2.jpg"
+    ],
+    "title": "Thiền viện Trúc Lâm Phụng Hoàng"
+  },
+  {
+    "description": "Núi",
+    "images": [
+      "f6458548-336a-4e75-bfe6-a494e0dfb7e6.jpg",
+      "16043e8e-2ee8-492a-b1c6-77702c12b924.jpg",
+      "9c40da64-274e-423b-a01f-a076bec83408.jpg"
+    ],
+    "title": "Khu du lịch Quỷ Núi"
+  },
+  {
+    "description": "Văn phòng công ty",
+    "images": [
+      "35eeb7fe-3f91-423f-b9e0-9bc6bab8b2d9.jpg",
+      "ade3f26d-b59e-479b-97db-4cdbe9b2adbd.jpg",
+      "970db32e-880a-4560-8f72-f4729485f3fe.jpg"
+    ],
+    "title": "Dalat Car Tour"
+  },
+  {
+    "description": "Điểm quan tâm",
+    "images": [
+      "51cb400e-30c8-44e9-ae0a-08673a95d6d2.jpg",
+      "03d26ef7-50cb-4e92-b728-ecabfcf90991.jpg",
+      "d3cd2303-535a-47f2-8236-bd2342f35435.jpg"
+    ],
+    "title": "Dalat Flower Garden"
+  },
+  {
+    "description": "Tàu lượn siêu tốc",
+    "images": [
+      "7a078f2f-4de2-48b3-b21e-cf47b3062d16.jpg",
+      "fd9a11ad-c64a-4120-a402-8c7fcaaf9485.jpg",
+      "195632b9-c9e6-475a-9535-f7c6bb02c822.jpg"
+    ],
+    "title": "Datanla New Alpine Coaster"
+  },
+  {
+    "description": "Núi",
+    "images": [
+      "5133f0af-49ff-4200-a7a3-e134fba3976a.jpg",
+      "6e39d9a3-7772-4c2d-b5f3-3b14e73bc8d4.jpg",
+      "a02d15ce-9a23-40a7-9dce-35a9cd441e59.jpg"
+    ],
+    "title": "Chicken Village (Làng Gà)"
+  },
+  {
+    "description": "Điểm quan tâm",
+    "images": [],
+    "title": "Dinh 1 Đà Lạt"
+  }
+]

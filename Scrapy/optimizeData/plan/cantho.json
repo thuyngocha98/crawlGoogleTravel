@@ -1,0 +1,66 @@
+[
+  {
+    "url": "a1b792d4-2bea-4394-a024-6812d18c91f9.jpg",
+    "title": "Chợ Nổi Cái Răng",
+    "desc": "Chợ nổi bán buôn lớn và sôi động",
+    "code": 6,
+    "latitude": 10.0050363,
+    "longitude": 105.7459816
+  },
+  {
+    "url": "9f431dea-dab7-4c90-b2d3-38599a239129.jpg",
+    "title": "Bảo Tàng thành phố Cần Thơ",
+    "desc": "Bảo tàng lớn với các hiện vật lịch sử",
+    "code": 6,
+    "latitude": 10.0351976,
+    "longitude": 105.7866723
+  },
+  {
+    "url": "42bdceb2-7e1c-4463-878c-e5f0577b8830.jpg",
+    "title": "Làng Du lịch Mỹ Khánh",
+    "desc": "Khu nghỉ dưỡng xanh mát có vườn & các hoạt động",
+    "code": 6,
+    "latitude": 9.9891139,
+    "longitude": 105.7065342
+  },
+  {
+    "url": "ad1ba524-4e53-4aab-85e1-a449750e77cf.jpg",
+    "title": "Chùa Ông",
+    "desc": "Đền Trung Hoa uy nghi, lộng lẫy",
+    "code": 6,
+    "latitude": 10.0341776,
+    "longitude": 105.7884576
+  },
+  {
+    "url": "781b4d2b-3240-43c8-9a91-aa137e3af2a2.jpg",
+    "title": "Nhà cổ Bình Thủy",
+    "desc": "Nhà cổ xinh đẹp do người Pháp xây dựng",
+    "code": 6,
+    "latitude": 10.0670243,
+    "longitude": 105.7495666
+  },
+  {
+    "url": "2d5a87c2-8109-4f29-8d5f-435793e3d3b3.jpg",
+    "title": "Cầu Cần Thơ",
+    "desc": "Cầu",
+    "code": 6,
+    "latitude": 10.033083,
+    "longitude": 105.810551
+  },
+  {
+    "url": "fa3cef0f-16d0-41aa-9b5c-79e89d6542a0.jpg",
+    "title": "Thiền viện Trúc Lâm Phương Nam",
+    "desc": "Đền, phật giáo và kiến trúc",
+    "code": 6,
+    "latitude": 9.9896454,
+    "longitude": 105.7039729
+  },
+  {
+    "url": "75f4ae6f-732d-4de3-ba25-95bed4feb264.jpg",
+    "title": "Cồn Sơn",
+    "desc": "Đảo",
+    "code": 6,
+    "latitude": 10.087253,
+    "longitude": 105.745388
+  }
+]

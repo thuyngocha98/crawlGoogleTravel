@@ -1,0 +1,58 @@
+[
+  {
+    "url": "fd3341c0-36a0-4e16-9bc8-2e14dd23f5c1.jpg",
+    "title": "Chợ phiên Cán Cấu",
+    "desc": "Thị trường",
+    "code": 1,
+    "latitude": 22.6509662,
+    "longitude": 104.3152459
+  },
+  {
+    "url": "84eff294-5984-4cd5-bdc7-8c992e514b1a.jpg",
+    "title": "Dinh thự Hoàng A Tưởng",
+    "desc": "Kiến trúc và lịch sử",
+    "code": 1,
+    "latitude": 22.54092,
+    "longitude": 104.2955303
+  },
+  {
+    "url": "cca6b192-f5c4-40d4-a811-f97f595bfc54.jpg",
+    "title": "Chợ Văn hóa Bắc Hà",
+    "desc": "Chợ",
+    "code": 1,
+    "latitude": 22.534914,
+    "longitude": 104.292839
+  },
+  {
+    "url": "8dc74d38-e75e-4b71-b55c-46039c97f28c.jpg",
+    "title": "Thác Tiên",
+    "desc": "Rừng và tự nhiên",
+    "code": 1,
+    "latitude": 22.5816236,
+    "longitude": 104.4934505
+  },
+  {
+    "url": "59731d3f-afcc-4b31-bf79-3b71ad1927a4.jpg",
+    "title": "Đền Bắc Hà",
+    "desc": "Nơi thờ cúng",
+    "code": 1,
+    "latitude": 22.5350342,
+    "longitude": 104.290123
+  },
+  {
+    "url": "1e40f7e7-0a7f-4352-90d0-3a99f28c3d26.jpg",
+    "title": "Hoa Tam Giac Mach",
+    "desc": "Điểm thu hút khách du lịch",
+    "code": 1,
+    "latitude": 22.6082388,
+    "longitude": 104.3096937
+  },
+  {
+    "url": "c2c266dc-4256-4f36-b8a7-52339619574d.jpg",
+    "title": "Bac Ha town",
+    "desc": "Điểm thu hút khách du lịch",
+    "code": 1,
+    "latitude": 22.5366952,
+    "longitude": 104.2893505
+  }
+]

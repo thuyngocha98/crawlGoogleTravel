@@ -1,0 +1,66 @@
+[
+  {
+    "url": "defb9d59-3ad2-46aa-8953-0860b1b559ec.jpg",
+    "title": "Đèo Hải Vân",
+    "desc": "Con đường nổi tiếng với các phượt thủ",
+    "code": 27,
+    "latitude": 16.2,
+    "longitude": 108.133333
+  },
+  {
+    "url": "bed83643-1587-4903-9ad3-3db30d571051.jpg",
+    "title": "Bãi biển Lăng Cô",
+    "desc": "Bãi biển",
+    "code": 27,
+    "latitude": 16.2688157,
+    "longitude": 108.064221
+  },
+  {
+    "url": "c4eee171-a0dd-4e19-b7eb-33779cba00df.jpg",
+    "title": "Suối Voi",
+    "desc": "Tự nhiên",
+    "code": 27,
+    "latitude": 16.243827,
+    "longitude": 107.989436
+  },
+  {
+    "url": "2922e19a-db7e-4bc2-b49f-72d96b80b109.jpg",
+    "title": "Đầm Lập An",
+    "desc": "Đầm phá và hàu",
+    "code": 27,
+    "latitude": 16.237956,
+    "longitude": 108.077290
+  },
+  {
+    "url": "64d2366d-53e9-4f8d-8ecb-863a7d123756.jpg",
+    "title": "Hòn Sơn Chà",
+    "desc": "Đảo",
+    "code": 27,
+    "latitude": 16.2152884,
+    "longitude": 108.205132
+  },
+  {
+    "url": "6fb91e14-b7ab-4271-9405-a642fb1bea5c.jpg",
+    "title": "Rạn Nam Ô",
+    "desc": "Điểm thu hút khách du lịch",
+    "code": 27,
+    "latitude": 16.1177177,
+    "longitude": 108.1309847
+  },
+  {
+    "url": "b0d4088d-249b-4095-9e42-883f0a375276.jpg",
+    "title": "Đầm Lập An",
+    "desc": "Điểm thu hút khách du lịch",
+    "code": 27,
+    "latitude": 16.237956,
+    "longitude": 108.077290
+  },
+  {
+    "url": "0a7142c0-8821-4544-9311-9c0f36df0950.jpg",
+    "title": "Khu Du Lịch Sinh Thái Suối Lương",
+    "desc": "Tự nhiên",
+    "code": 27,
+    "latitude": 16.1565471,
+    "longitude": 108.1095665
+  }
+]

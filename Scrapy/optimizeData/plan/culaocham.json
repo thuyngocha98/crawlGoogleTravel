@@ -1,0 +1,66 @@
+[
+  {
+    "url": "237acbb4-1b1f-4575-80ff-33a94387e899.jpg",
+    "title": "Bảo tàng Cù Lao Chàm",
+    "desc": "Viện bảo tàng",
+    "code": 12,
+    "latitude": 15.9584523,
+    "longitude": 108.5047227
+  },
+  {
+    "url": "543d1221-9258-442b-8b3f-e1d0d4247327.jpg",
+    "title": "Bãi Chồng",
+    "desc": "Bãi biển công cộng",
+    "code": 12,
+    "latitude": 15.942614,
+    "longitude": 108.512489
+  },
+  {
+    "url": "78976c86-d249-4e6f-8778-5024d4a3392b.jpg",
+    "title": "Chùa Hải Tạng",
+    "desc": "Đền",
+    "code": 12,
+    "latitude": 15.9606757,
+    "longitude": 108.5065774
+  },
+  {
+    "url": "e2f36b1a-292b-4140-8b66-47b3b65298f5.jpg",
+    "title": "Giếng Chăm cổ",
+    "desc": "Bảo tàng lịch sử",
+    "code": 12,
+    "latitude": 15.958649,
+    "longitude": 108.50525
+  },
+  {
+    "url": "134fab0d-d22a-4223-be99-34d5341c0797.jpg",
+    "title": "Tịnh xá Ngọc Hương",
+    "desc": "Chùa phật giáo",
+    "code": 12,
+    "latitude": 15.9312454,
+    "longitude": 108.5291203
+  },
+  {
+    "url": "349d3bb5-14d6-42bf-a583-3572a868b32f.jpg",
+    "title": "Âu thuyền Cù Lao Chàm",
+    "desc": "Bảo tàng hàng hải",
+    "code": 12,
+    "latitude": 15.960774,
+    "longitude": 108.504145
+  },
+  {
+    "url": "8f2b9a6b-a7ee-4467-962c-d701eb238c1e.jpg",
+    "title": "Bãi biển An Bàng",
+    "desc": "Bãi biển cát trắng có cây xanh & mái che",
+    "code": 12,
+    "latitude": 15.9136072,
+    "longitude": 108.3406489
+  },
+  {
+    "url": "e1a2fd72-cd7d-4a20-b7a1-9f8ee5f9b2ea.jpg",
+    "title": "Cua Dai Beach",
+    "desc": "Bãi biển",
+    "code": 12,
+    "latitude": 15.901799,
+    "longitude": 108.360037
+  }
+]

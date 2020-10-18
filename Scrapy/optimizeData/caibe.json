@@ -1,0 +1,66 @@
+[
+  {
+    "url": "fe07435e-c0c1-454d-a044-fdbcfcbafbe9.jpg",
+    "title": "Chợ nổi Cái Bè",
+    "desc": "Thị trường",
+    "code": 4,
+    "latitude": 10.3324041,
+    "longitude": 106.0352031
+  },
+  {
+    "url": "208196cd-bd8d-44ef-9981-01ea0d928571.jpg",
+    "title": "Khu Di Tích Xẻo Quýt",
+    "desc": "Khu bảo tồn thiên nhiên",
+    "code": 4,
+    "latitude": 10.3978506,
+    "longitude": 105.8046936
+  },
+  {
+    "url": "ad1b4deb-d11b-4b81-a4ac-4f20404b7e8d.jpg",
+    "title": "Cu Lao Tan Phong",
+    "desc": "Vườn cây ăn trái",
+    "code": 4,
+    "latitude": 10.3367347,
+    "longitude": 106.0298196
+  },
+  {
+    "url": "6cc6f9d7-cb5d-4607-873d-db82976d019e.jpg",
+    "title": "Chùa Tiên Châu",
+    "desc": "Lịch sử và Đền",
+    "code": 4,
+    "latitude": 10.2629972,
+    "longitude": 105.9691111
+  },
+  {
+    "url": "bab4f78f-9ebb-41e1-916c-d28bc2076fee.jpg",
+    "title": "Ba Duc Ancient House",
+    "desc": "Điểm thu hút khách du lịch",
+    "code": 4,
+    "latitude": 10.3465801,
+    "longitude": 106.022362
+  },
+  {
+    "url": "1061bfe9-2ab3-4368-931f-97a39dd9eef5.jpg",
+    "title": "Nhà cổ Ông Kiệt (Mr. Kiet's Ancient House)",
+    "desc": "Điểm thu hút khách du lịch",
+    "code": 4,
+    "latitude": 10.337832,
+    "longitude": 106.02189
+  },
+  {
+    "url": "6a23b9bd-c054-4343-9b52-9bb2677a53cb.jpg",
+    "title": "Nhà Thờ Cái Bè",
+    "desc": "Nhà thờ Công giáo",
+    "code": 4,
+    "latitude": 10.337912,
+    "longitude": 106.035275
+  },
+  {
+    "url": "f9ea2cd7-8eb3-4c39-bb07-b6be21aa732c.jpg",
+    "title": "khu di tích chiến thắng Ngã Sáu - Bằng Lăng",
+    "desc": "Bảo tàng",
+    "code": 4,
+    "latitude": 10.450798,
+    "longitude": 105.9015714
+  }
+]

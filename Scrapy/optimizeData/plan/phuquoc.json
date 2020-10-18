@@ -1,0 +1,42 @@
+[
+  {
+    "url": "bf026691-e35e-4a3c-96b0-e84948635282.jpg",
+    "title": "Bãi tắm Khem",
+    "desc": "Bãi biển rộng nổi tiếng với phong cảnh đẹp như tranh vẽ, làn nước yên tĩnh và vùng bản địa hoang sơ.",
+    "code": 36,
+    "latitude": 10.0366839,
+    "longitude": 104.0310431
+  },
+  {
+    "url": "6f9b637e-843f-4553-9a00-96987021401f.jpg",
+    "title": "Bãi tắm Sao",
+    "desc": "Biển cát trắng nổi tiếng với làn nước trong vắt có các hoạt động thể thao, dịch vụ thuê ghế ngồi, nhà hàng & khung cảnh thơ mộng.",
+    "code": 36,
+    "latitude": 10.0572576,
+    "longitude": 104.0363948
+  },
+  {
+    "url": "5cb8ba42-078e-40eb-916a-927a23fc366f.jpg",
+    "title": "Khu Du Lịch Suối Tranh",
+    "desc": "Đoạn đường đi bộ ngắn và dốc từ công viên điêu khắc đa dạng đến thác nước nhỏ với những hồ đá.",
+    "code": 36,
+    "latitude": 10.1766461,
+    "longitude": 104.0124828
+  },
+  {
+    "url": "18476835-c14b-455e-aaf2-d453c4d74336.jpg",
+    "title": "Dinh Cậu",
+    "desc": "Ngôi miếu nhỏ thờ Long Vương tọa lạc cạnh ngọn hải đăng được sơn sọc xanh trắng hướng ra cảng biển.",
+    "code": 36,
+    "latitude": 10.217376,
+    "longitude": 103.956352
+  },
+  {
+    "url": "090cf4ca-442c-4e7f-9a22-0f3190d54c75.jpg",
+    "title": "Vườn quốc gia Phú Quốc",
+    "desc": "Khu bảo tồn sinh quyển rộng lớn được UNESCO công nhận, có rừng cây thường xanh, hệ động thực vật & sinh vật biển độc đáo.",
+    "code": 36,
+    "latitude": 10.3316275,
+    "longitude": 104.0304528
+  }
+]

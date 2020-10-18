@@ -1,0 +1,66 @@
+[
+  {
+    "url": "45be93ad-3cea-42ad-8068-c3d0be4c012a.jpg",
+    "title": "Lăng Chủ tịch Hồ Chí Minh",
+    "desc": "Nơi an nghỉ cuối cùng của Bác Hồ",
+    "code": 25,
+    "latitude": 21.0367899,
+    "longitude": 105.8346627
+  },
+  {
+    "url": "1a42d226-2382-413e-a534-283fbff91342.jpg",
+    "title": "Văn Miếu Quốc Tử Giám",
+    "desc": "Ngôi đền lớn giữa khung cảnh thôn quê",
+    "code": 25,
+    "latitude": 21.029355,
+    "longitude": 105.836163
+  },
+  {
+    "url": "4a4edd9b-44b2-4c01-bca7-57400d3089c9.jpg",
+    "title": "Chùa Trấn Quốc",
+    "desc": "Chùa Phật giáo cổ nằm trên đảo yên bình",
+    "code": 25,
+    "latitude": 21.0479726,
+    "longitude": 105.8369334
+  },
+  {
+    "url": "addced59-fa48-453d-aa7b-3f8321af9450.jpg",
+    "title": "Chùa Một Cột",
+    "desc": "Ngôi chùa thờ Phật cổ xưa được xây lại",
+    "code": 25,
+    "latitude": 21.0358532,
+    "longitude": 105.8336228
+  },
+  {
+    "url": "bff75e18-7c86-439a-8624-af70e670f29a.jpg",
+    "title": "Bảo Tàng Hồ Chí Minh",
+    "desc": "Bảo tàng trưng bày về CT Hồ Chí Minh",
+    "code": 25,
+    "latitude": 21.0356011,
+    "longitude": 105.8326289
+  },
+  {
+    "url": "59881d7a-513c-4f75-8946-6c052175bd39.jpg",
+    "title": "Hoàng Thành Thăng Long",
+    "desc": "Hoàng thành từ thế kỷ 11",
+    "code": 25,
+    "latitude": 21.034381,
+    "longitude": 105.8401142
+  },
+  {
+    "url": "77b7bf75-be12-42d5-b8b5-22c07734fff9.jpg",
+    "title": "Bảo tàng Dân tộc học Việt Nam",
+    "desc": "Bảo tàng trưng bày các hiện vật văn hóa",
+    "code": 25,
+    "latitude": 21.0403422,
+    "longitude": 105.7987354
+  },
+  {
+    "url": "a51219bd-33fe-47ce-b44f-043f9e7fcdd7.jpg",
+    "title": "Chợ Đồng Xuân",
+    "desc": "Khu chợ mua buôn rộng lớn",
+    "code": 25,
+    "latitude": 21.0382232,
+    "longitude": 105.849617
+  }
+]
